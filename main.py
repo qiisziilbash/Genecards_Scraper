@@ -16,20 +16,27 @@ def read_genes_list(address, importance_list):
         genes_data = {}
 
         for row in genes:
-            name = row.split('(')[0]
-            name = name.strip()
+            if '(' in row:
+                name = row.split('(')[0]
+                name = name.strip()
 
-            variant = row.split('(')[1]
-            variant = variant.strip()
-            variant = variant[0:-1]
+                variant = row.split('(')[1]
+                variant = variant.strip()
+                variant = variant[0:-1]
+            else:
+                name = row.strip()
+                variant = ''
 
             if name in genes_data.keys():
-                genes_data[name].append(variant)
+                if variant:
+                    genes_data[name].append(variant)
             else:
-                genes_data[name] = [variant]
+                if variant:
+                    genes_data[name] = [variant]
+                else:
+                    genes_data[name] = []
 
         result[importance] = genes_data
-
     return result
 
 
@@ -47,6 +54,7 @@ def get_variant_info(variant):
             word = re.sub(r'\s', '', freq)
             if not word == ')':
                 frequencies.append(word)
+
     return frequencies
 
 
@@ -81,6 +89,18 @@ def get_gene_info(gene, variants, headers):
     print('Pathways:')
     print(pathways)
 
+    h3_tag = soup.find('h3', text=re.compile(r'MalaCards'))
+    table = h3_tag.find_next('tbody')
+
+    disorders = []
+    for tr in table.find_all('tr'):
+        disorder = tr.find_next('a')
+        disorders.append(disorder.contents[0])
+
+    result['related_disorders'] = disorders
+    print('Related Disorders')
+    print(disorders)
+
     variants_info = {}
     for variant in variants:
         print(variant)
@@ -91,7 +111,8 @@ def get_gene_info(gene, variants, headers):
 
         print(frequencies)
 
-    result['variants_inf'] = variants_info
+    if variants_info:
+        result['variants_info'] = variants_info
     print('===========================')
 
     return result
@@ -111,13 +132,45 @@ def scrape_genes_info(data, importance_list, headers):
     return gene_info
 
 
+def attach_local_data(address, data):
+    gene_conditions_data = pd.read_excel(address, sheet_name=0)
+
+    for idx, row in gene_conditions_data.iterrows():
+        conditions = []
+
+        for condition in row['conditions'].split(';'):
+            conditions.append(condition.strip())
+
+        if row['name'] in data['Pathogenic'].keys():
+            data['Pathogenic'][row['name']]['related_conditions'] = conditions
+        else:
+            print(row['name'] + ': Does not exist in Pathogenic genes list ')
+
+    gene_conditions_data = pd.read_excel(address, sheet_name=1)
+
+    for idx, row in gene_conditions_data.iterrows():
+        conditions = []
+
+        for condition in row['conditions'].split(';'):
+            conditions.append(condition.strip())
+
+        if row['name'] in data['HM_VUS'].keys():
+            data['HM_VUS'][row['name']]['related_conditions'] = conditions
+        else:
+            print(row['name'] + ': Does not exist in HM_VUS genes list ')
+
+    return data
+
+
 if __name__ == '__main__':
     headers = {
         'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
-    importance_list = ['med', 'high']
+    importance_list = ['HM_VUS', 'Pathogenic', 'None']
 
     genes = read_genes_list('data/genes_variants.xlsx', importance_list)
     data = scrape_genes_info(genes, importance_list, headers)
 
+    data = attach_local_data('data/genes_conditions.xlsx', data)
+
     with open('data/data.json', 'w') as fp:
-        json.dump(data, fp, sort_keys=True, indent=4)
+        json.dump(data, fp, indent=4)
