@@ -1,0 +1,2777 @@
+{
+    "high": {
+        "ABCC9": {
+            "pathways": [
+                " potassium ion transport",
+                " response to ATP",
+                " defense response to virus",
+                " transmembrane transport",
+                " cardiac conduction"
+            ],
+            "summary": "The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra- and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This protein is a member of the MRP subfamily which is involved in multi-drug resistance. This protein is thought to form ATP-sensitive potassium channels in cardiac, skeletal, and vascular and non-vascular smooth muscle. Protein structure suggests a role as the drug-binding channel-modulating subunit of the extra-pancreatic ATP-sensitive potassium channels. Mutations in this gene are associated with cardiomyopathy dilated type 1O. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Apr 2011]",
+            "variants_inf": {
+                "rs761784169": {
+                    "freqs": [
+                        "insA=0.00040(5/12518,GO-ESP)",
+                        "insA=0.0005(2/3854,ALSPAC)",
+                        "insA=0.0008(3/3708,TWINSUK)"
+                    ]
+                }
+            }
+        },
+        "ACTA1": {
+            "pathways": [
+                " muscle contraction",
+                " response to mechanical stimulus",
+                " response to extracellular stimulus",
+                " response to lithium ion",
+                " positive regulation of gene expression"
+            ],
+            "summary": "The product encoded by this gene belongs to the actin family of proteins, which are highly conserved proteins that play a role in cell motility, structure and integrity. Alpha, beta and gamma actin isoforms have been identified, with alpha actins being a major constituent of the contractile apparatus, while beta and gamma actins are involved in the regulation of cell motility. This actin is an alpha actin that is found in skeletal muscle. Mutations in this gene cause a variety of myopathies, including nemaline myopathy, congenital myopathy with excess of thin myofilaments, congenital myopathy with cores, and congenital myopathy with fiber-type disproportion, diseases that lead to muscle fiber defects with manifestations such as hypotonia. [provided by RefSeq, Sep 2019]",
+            "variants_inf": {
+                "rs121909523": {
+                    "freqs": [
+                        "A=0.00003(1/31220,GnomAD)"
+                    ]
+                }
+            }
+        },
+        "APOB": {
+            "pathways": [
+                " retinoid metabolic process",
+                " in utero embryonic development",
+                " toll-like receptor signaling pathway",
+                " lipid metabolic process",
+                " triglyceride mobilization"
+            ],
+            "summary": "This gene product is the main apolipoprotein of chylomicrons and low density lipoproteins (LDL), and is the ligand for the LDL receptor. It occurs in plasma as two main isoforms, apoB-48 and apoB-100: the former is synthesized exclusively in the gut and the latter in the liver. The intestinal and the hepatic forms of apoB are encoded by a single gene from a single, very long mRNA. The two isoforms share a common N-terminal sequence. The shorter apoB-48 protein is produced after RNA editing of the apoB-100 transcript at residue 2180 (CAA->UAA), resulting in the creation of a stop codon, and early translation termination. Mutations in this gene or its regulatory region cause hypobetalipoproteinemia, normotriglyceridemic hypobetalipoproteinemia, and hypercholesterolemia due to ligand-defective apoB, diseases affecting plasma cholesterol and apoB levels. [provided by RefSeq, Dec 2019]",
+            "variants_inf": {
+                "rs1215189537": {
+                    "freqs": [
+                        "delAAAGA=0.000004(1/250480,GnomAD_exome)",
+                        "delAAAGA=0.00032(4/12516,GO-ESP)"
+                    ]
+                },
+                "rs142066904": {
+                    "freqs": [
+                        "A=0.000012(3/251042,GnomAD_exome)",
+                        "A=0.000016(2/125568,TOPMED)",
+                        "A=0.000017(2/121004,ExAC)",
+                        "A=0.00015(2/13006,GO-ESP)",
+                        "A=0.0000(0/8586,ALFAProject)",
+                        "A=0.0000(0/3854,ALSPAC)",
+                        "A=0.0003(1/3708,TWINSUK)"
+                    ]
+                },
+                "rs562574661": {
+                    "freqs": [
+                        "delCTG=0.000384(96/250322,GnomAD_exome)",
+                        "delCTG=0.000191(24/125568,TOPMED)",
+                        "delCTG=0.000512(62/121024,ExAC)",
+                        "delCTG=0.00025(8/31394,GnomAD)",
+                        "delCTG=0.00040(5/12518,GO-ESP)",
+                        "delCTG=0.00018(2/11176,ALFAProject)",
+                        "delCTG=0.0007(3/4480,Estonian)",
+                        "delCTG=0.0005(2/3854,ALSPAC)",
+                        "delCTG=0.0005(2/3708,TWINSUK)",
+                        "delCTG=0.001(1/998,GoNL)"
+                    ]
+                },
+                "rs5742904": {
+                    "freqs": [
+                        "T=0.000275(69/250764,GnomAD_exome)",
+                        "T=0.001338(168/125568,TOPMED)",
+                        "T=0.000231(28/121182,ExAC)",
+                        "T=0.00042(40/94988,ALFAProject)",
+                        "T=0.00014(11/78694,PAGE_STUDY)",
+                        "T=0.00045(14/31398,GnomAD)",
+                        "T=0.0013(6/4480,Estonian)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)",
+                        "T=0.0003(1/2922,KOREAN)",
+                        "T=0.000(0/324,HapMap)"
+                    ]
+                }
+            }
+        },
+        "APOE": {
+            "pathways": [
+                " response to reactive oxygen species",
+                " retinoid metabolic process",
+                " negative regulation of endothelial cell proliferation",
+                " response to dietary excess",
+                " regulation of transcription by RNA polymerase II"
+            ],
+            "summary": "The protein encoded by this gene is a major apoprotein of the chylomicron. It binds to a specific liver and peripheral cell receptor, and is essential for the normal catabolism of triglyceride-rich lipoprotein constituents. This gene maps to chromosome 19 in a cluster with the related apolipoprotein C1 and C2 genes. Mutations in this gene result in familial dysbetalipoproteinemia, or type III hyperlipoproteinemia (HLP III), in which increased plasma cholesterol and triglycerides are the consequence of impaired clearance of chylomicron and VLDL remnants. [provided by RefSeq, Jun 2016]",
+            "variants_inf": {
+                "rs121918396": {
+                    "freqs": [
+                        "A=0.000016(2/128644,GnomAD_exome)",
+                        "A=0.000048(6/125568,TOPMED)",
+                        "A=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs429358": {
+                    "freqs": [
+                        "C=0.138498(23502/169692,GnomAD_exome)",
+                        "C=0.155597(19538/125568,TOPMED)",
+                        "C=0.00000(0/78676,PAGE_STUDY)",
+                        "C=0.03702(1624/43872,ALFAProject)",
+                        "C=0.16444(5135/31228,GnomAD)",
+                        "C=0.18433(5332/28926,ExAC)",
+                        "C=0.1506(754/5008,1000G)",
+                        "C=0.1246(558/4480,Estonian)",
+                        "C=0.1539(593/3854,ALSPAC)",
+                        "C=0.1397(518/3708,TWINSUK)",
+                        "C=0.0917(268/2922,KOREAN)",
+                        "C=0.0956(170/1778,Korea1K)",
+                        "C=0.148(89/600,NorthernSweden)",
+                        "C=0.106(23/216,Qatari)",
+                        "C=0.014(3/208,HapMap)",
+                        "T=0.468(74/158,SGDP_PRJ)",
+                        "C=0.23(9/40,GENOME_DK)",
+                        "T=0.2(1/4,Siberian)"
+                    ]
+                },
+                "rs7412": {
+                    "freqs": [
+                        "T=0.061504(8425/136984,GnomAD_exome)",
+                        "T=0.086501(10945/126530,ALFAProject)",
+                        "T=0.082139(10314/125568,TOPMED)",
+                        "T=0.08268(2571/31094,GnomAD)",
+                        "T=0.07182(972/13534,ExAC)",
+                        "T=0.0751(376/5008,1000G)",
+                        "T=0.1009(452/4480,Estonian)",
+                        "T=0.0924(356/3854,ALSPAC)",
+                        "T=0.0917(340/3708,TWINSUK)",
+                        "T=0.0693(200/2888,KOREAN)",
+                        "T=0.0720(97/1348,HapMap)",
+                        "T=0.082(49/600,NorthernSweden)",
+                        "T=0.014(3/216,Qatari)",
+                        "C=0.45(29/64,SGDP_PRJ)",
+                        "T=0.20(8/40,GENOME_DK)",
+                        "C=0.5(4/8,Siberian)",
+                        "T=0.5(4/8,Siberian)"
+                    ]
+                },
+                "rs769455": {
+                    "freqs": [
+                        "T=0.001421(220/154854,GnomAD_exome)",
+                        "T=0.006706(842/125568,TOPMED)",
+                        "T=0.00053(47/89298,ALFAProject)",
+                        "T=0.00554(173/31232,GnomAD)",
+                        "T=0.00264(39/14800,ExAC)",
+                        "T=0.0074(37/5008,1000G)",
+                        "T=0.026(7/274,HapMap)",
+                        "T=0.009(2/216,Qatari)",
+                        "C=0.5(1/2,SGDP_PRJ)",
+                        "T=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "CBS": {
+            "pathways": [
+                " cysteine biosynthetic process from serine",
+                " L-serine metabolic process",
+                " L-serine catabolic process",
+                " metabolic process",
+                " cellular amino acid biosynthetic process"
+            ],
+            "summary": "The protein encoded by this gene acts as a homotetramer to catalyze the conversion of homocysteine to cystathionine, the first step in the transsulfuration pathway. The encoded protein is allosterically activated by adenosyl-methionine and uses pyridoxal phosphate as a cofactor. Defects in this gene can cause cystathionine beta-synthase deficiency (CBSD), which can lead to homocystinuria. This gene is a major contributor to cellular hydrogen sulfide production. Multiple alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Feb 2016]",
+            "variants_inf": {
+                "rs5742905": {
+                    "freqs": [
+                        "G=0.00783(730/93287,ALFAProject)",
+                        "G=0.00025(20/78612,PAGE_STUDY)",
+                        "G=0.00083(26/31224,GnomAD)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0034(10/2922,KOREAN)",
+                        "G=0.011(11/998,GoNL)",
+                        "G=0.000(0/304,HapMap)",
+                        "G=0.069(15/216,Qatari)",
+                        "A=0.50(28/56,SGDP_PRJ)",
+                        "G=0.50(28/56,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "CETP": {
+            "pathways": [
+                " lipid metabolic process",
+                " triglyceride metabolic process",
+                " lipid transport",
+                " steroid metabolic process",
+                " cholesterol metabolic process"
+            ],
+            "summary": "The protein encoded by this gene is found in plasma, where it is involved in the transfer of cholesteryl ester from high density lipoprotein (HDL) to other lipoproteins. Defects in this gene are a cause of hyperalphalipoproteinemia 1 (HALP1). Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Oct 2013]",
+            "variants_inf": {
+                "rs142750310": {
+                    "freqs": [
+                        "T=0.000016(2/121252,ExAC)",
+                        "T=0.00007(1/15378,ALFAProject)",
+                        "T=0.00008(1/12996,GO-ESP)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)"
+                    ]
+                },
+                "rs752437798": {
+                    "freqs": [
+                        "delT=0.000016(4/251454,GnomAD_exome)",
+                        "delT=0.000151(19/125568,TOPMED)",
+                        "delT=0.000016(2/121382,ExAC)",
+                        "delT=0.00006(2/31392,GnomAD)",
+                        "delT=0.00008(1/12518,GO-ESP)",
+                        "delT=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "CRYAB": {
+            "pathways": [
+                " response to hypoxia",
+                " lens development in camera-type eye",
+                " protein folding",
+                " muscle contraction",
+                " tubulin complex assembly"
+            ],
+            "summary": "Mammalian lens crystallins are divided into alpha, beta, and gamma families. Alpha crystallins are composed of two gene products: alpha-A and alpha-B, for acidic and basic, respectively. Alpha crystallins can be induced by heat shock and are members of the small heat shock protein (HSP20) family. They act as molecular chaperones although they do not renature proteins and release them in the fashion of a true chaperone; instead they hold them in large soluble aggregates. These heterogeneous aggregates consist of 30-40 subunits; the alpha-A and alpha-B subunits have a 3:1 ratio, respectively. Two additional functions of alpha crystallins are an autokinase activity and participation in the intracellular architecture. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Alpha-A and alpha-B gene products are differentially expressed; alpha-A is preferentially restricted to the lens and alpha-B is expressed widely in many tissues and organs. Elevated expression of alpha-B crystallin occurs in many neurological diseases; a missense mutation cosegregated in a family with a desmin-related myopathy. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2019]",
+            "variants_inf": {
+                "rs281865142": {
+                    "freqs": [
+                        "delA=0.000004(1/250916,GnomAD_exome)",
+                        "delA=0.000016(2/125568,TOPMED)",
+                        "delA=0.00008(1/12518,GO-ESP)",
+                        "delA=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "DSG2": {
+            "pathways": [
+                " desmosome organization",
+                " Purkinje myocyte development",
+                " cell adhesion",
+                " homophilic cell adhesion via plasma membrane adhesion molecules",
+                " keratinization"
+            ],
+            "summary": "This gene encodes a member of the desmoglein family and cadherin cell adhesion molecule superfamily of proteins. Desmogleins are calcium-binding transmembrane glycoprotein components of desmosomes, cell-cell junctions between epithelial, myocardial, and other cell types. The encoded preproprotein is proteolytically processed to generate the mature glycoprotein. This gene is present in a gene cluster with other desmoglein gene family members on chromosome 18. Mutations in this gene have been associated with arrhythmogenic right ventricular dysplasia, familial, 10. [provided by RefSeq, Jan 2016]",
+            "variants_inf": {
+                "rs1064794709": {
+                    "freqs": [
+                        "delT=0.000004(1/248354,GnomAD_exome)"
+                    ]
+                }
+            }
+        },
+        "FBN1": {
+            "pathways": [
+                " skeletal system development",
+                " metanephros development",
+                " kidney development",
+                " signal transduction",
+                " heart development"
+            ],
+            "summary": "This gene encodes a member of the fibrillin family of proteins. The encoded preproprotein is proteolytically processed to generate two proteins including the extracellular matrix component fibrillin-1 and the protein hormone asprosin. Fibrillin-1 is an extracellular matrix glycoprotein that serves as a structural component of calcium-binding microfibrils. These microfibrils provide force-bearing structural support in elastic and nonelastic connective tissue throughout the body. Asprosin, secreted by white adipose tissue, has been shown to regulate glucose homeostasis. Mutations in this gene are associated with Marfan syndrome and the related MASS phenotype, as well as ectopia lentis syndrome, Weill-Marchesani syndrome, Shprintzen-Goldberg syndrome and neonatal progeroid syndrome. [provided by RefSeq, Apr 2016]",
+            "variants_inf": {
+                "rs536588176": {
+                    "freqs": [
+                        "T=0.000004(1/251284,GnomAD_exome)",
+                        "T=0.000008(1/125568,TOPMED)",
+                        "T=0.000008(1/121284,ExAC)",
+                        "T=0.0002(1/5008,1000G)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "FKRP": {
+            "pathways": [
+                " protein glycosylation",
+                " glycoprotein biosynthetic process",
+                " protein processing",
+                " protein O-linked mannosylation"
+            ],
+            "summary": "This gene encodes a protein which is targeted to the medial Golgi apparatus and is necessary for posttranslational modification of dystroglycan. Mutations in this gene have been associated with congenital muscular dystrophy, cognitive disability, and cerebellar cysts. Several alternatively spliced transcript variants of this gene have been described, but the full-length nature of some of these variants has not been determined. [provided by RefSeq, Oct 2008]",
+            "variants_inf": {
+                "rs28937900": {
+                    "freqs": [
+                        "A=0.001203(151/125568,TOPMED)",
+                        "A=0.001028(125/121630,GnomAD_exome)",
+                        "A=0.00086(11/12846,ALFAProject)",
+                        "A=0.0006(3/5008,1000G)",
+                        "A=0.0020(9/4480,Estonian)",
+                        "A=0.0040(13/3282,ExAC)",
+                        "A=0.003(2/600,NorthernSweden)"
+                    ]
+                }
+            }
+        },
+        "GCKR": {
+            "pathways": [
+                " cellular glucose homeostasis",
+                " carbohydrate metabolic process",
+                " regulation of glycolytic process",
+                " protein import into nucleus",
+                " response to fructose"
+            ],
+            "summary": "This gene encodes a protein belonging to the GCKR subfamily of the SIS (Sugar ISomerase) family of proteins. The gene product is a regulatory protein that inhibits glucokinase in liver and pancreatic islet cells by binding non-covalently to form an inactive complex with the enzyme. This gene is considered a susceptibility gene candidate for a form of maturity-onset diabetes of the young (MODY). [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs146175795": {
+                    "freqs": [
+                        "A=0.002681(674/251402,GnomAD_exome)",
+                        "A=0.002039(256/125568,TOPMED)",
+                        "A=0.002283(277/121334,ExAC)",
+                        "A=0.00017(15/88596,ALFAProject)",
+                        "A=0.00651(512/78700,PAGE_STUDY)",
+                        "A=0.00096(30/31374,GnomAD)",
+                        "A=0.00008(1/13006,GO-ESP)",
+                        "A=0.0044(22/5008,1000G)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0000(0/3708,TWINSUK)",
+                        "A=0.0123(36/2922,KOREAN)",
+                        "A=0.0136(25/1832,Korea1K)",
+                        "G=0.5(4/8,SGDP_PRJ)",
+                        "A=0.5(4/8,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "HFE": {
+            "pathways": [
+                " positive regulation of T cell mediated cytotoxicity",
+                "NOT",
+                " antigen processing and presentation of endogenous peptide antigen via MHC class Ib",
+                " negative regulation of T cell antigen processing and presentation",
+                " negative regulation of T cell cytokine production"
+            ],
+            "summary": "The protein encoded by this gene is a membrane protein that is similar to MHC class I-type proteins and associates with beta2-microglobulin (beta2M). It is thought that this protein functions to regulate iron absorption by regulating the interaction of the transferrin receptor with transferrin. The iron storage disorder, hereditary haemochromatosis, is a recessive genetic disorder that results from defects in this gene. At least nine alternatively spliced variants have been described for this gene. Additional variants have been found but their full-length nature has not been determined. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs1799945": {
+                    "freqs": [
+                        "G=0.109240(27472/251484,GnomAD_exome)",
+                        "G=0.101156(12702/125568,TOPMED)",
+                        "G=0.106599(12942/121408,ExAC)",
+                        "G=0.06797(5349/78702,PAGE_STUDY)",
+                        "G=0.09949(3120/31360,GnomAD)",
+                        "G=0.13586(1977/14552,ALFAProject)",
+                        "G=0.0731(366/5008,1000G)",
+                        "G=0.1373(615/4480,Estonian)",
+                        "G=0.1365(526/3854,ALSPAC)",
+                        "G=0.1429(530/3708,TWINSUK)",
+                        "G=0.0488(143/2930,KOREAN)",
+                        "G=0.0448(82/1832,Korea1K)",
+                        "G=0.135(135/998,GoNL)",
+                        "G=0.033(20/614,Vietnamese)",
+                        "G=0.138(83/600,NorthernSweden)",
+                        "G=0.199(106/534,MGP)",
+                        "G=0.102(31/304,FINRISK)",
+                        "G=0.076(23/302,HapMap)",
+                        "G=0.130(28/216,Qatari)",
+                        "C=0.49(43/88,SGDP_PRJ)",
+                        "G=0.15(6/40,GENOME_DK)",
+                        "C=0.50(7/14,Siberian)",
+                        "G=0.50(7/14,Siberian)"
+                    ]
+                },
+                "rs1800562": {
+                    "freqs": [
+                        "A=0.033212(8344/251236,GnomAD_exome)",
+                        "A=0.053369(7701/144298,ALFAProject)",
+                        "A=0.038258(4804/125568,TOPMED)",
+                        "A=0.032432(3937/121394,ExAC)",
+                        "A=0.01389(1093/78702,PAGE_STUDY)",
+                        "A=0.03825(1200/31372,GnomAD)",
+                        "A=0.0126(63/5008,1000G)",
+                        "A=0.0426(191/4480,Estonian)",
+                        "A=0.0794(306/3854,ALSPAC)",
+                        "A=0.0690(256/3708,TWINSUK)",
+                        "A=0.0072(15/2084,HGDP_Stanford)",
+                        "A=0.0189(23/1214,HapMap)",
+                        "A=0.0201(22/1094,Daghestan)",
+                        "A=0.054(54/998,GoNL)",
+                        "A=0.018(11/626,Chileans)",
+                        "A=0.075(45/600,NorthernSweden)",
+                        "A=0.032(17/534,MGP)",
+                        "A=0.033(10/304,FINRISK)",
+                        "A=0.005(1/216,Qatari)",
+                        "A=0.03(1/40,GENOME_DK)",
+                        "G=0.50(6/12,SGDP_PRJ)",
+                        "A=0.50(6/12,SGDP_PRJ)",
+                        "G=0.5(1/2,Siberian)",
+                        "A=0.5(1/2,Siberian)"
+                    ]
+                },
+                "rs1800730": {
+                    "freqs": [
+                        "T=0.010239(2575/251490,GnomAD_exome)",
+                        "T=0.009573(1202/125568,TOPMED)",
+                        "T=0.010090(1225/121410,ExAC)",
+                        "T=0.00410(323/78702,PAGE_STUDY)",
+                        "T=0.01007(316/31388,GnomAD)",
+                        "T=0.01182(146/12352,ALFAProject)",
+                        "T=0.0040(20/5008,1000G)",
+                        "T=0.0100(45/4480,Estonian)",
+                        "T=0.0138(53/3854,ALSPAC)",
+                        "T=0.0135(50/3708,TWINSUK)",
+                        "T=0.0007(2/2922,KOREAN)",
+                        "T=0.017(17/998,GoNL)",
+                        "T=0.017(10/600,NorthernSweden)",
+                        "T=0.004(2/534,MGP)",
+                        "T=0.030(9/304,FINRISK)",
+                        "T=0.07(3/40,GENOME_DK)",
+                        "A=0.5(2/4,SGDP_PRJ)",
+                        "T=0.5(2/4,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "KCND3": {
+            "pathways": [
+                " ion transport",
+                " potassium ion transport",
+                " regulation of ion transmembrane transport",
+                " protein homooligomerization",
+                " transmembrane transport"
+            ],
+            "summary": "Voltage-gated potassium (Kv) channels represent the most complex class of voltage-gated ion channels from both functional and structural standpoints. Their diverse functions include regulating neurotransmitter release, heart rate, insulin secretion, neuronal excitability, epithelial electrolyte transport, smooth muscle contraction, and cell volume. Four sequence-related potassium channel genes - shaker, shaw, shab, and shal - have been identified in Drosophila, and each has been shown to have human homolog(s). This gene encodes a member of the potassium channel, voltage-gated, shal-related subfamily, members of which form voltage-activated A-type potassium ion channels and are prominent in the repolarization phase of the action potential. This member includes two isoforms with different sizes, which are encoded by alternatively spliced transcript variants of this gene. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs150401343": {
+                    "freqs": [
+                        "A=0.000133(33/247646,GnomAD_exome)",
+                        "A=0.000056(7/125568,TOPMED)",
+                        "A=0.00015(14/90828,ExAC)",
+                        "A=0.00006(2/31410,GnomAD)",
+                        "A=0.00051(9/17570,ALFAProject)",
+                        "A=0.0002(1/4480,Estonian)",
+                        "G=0.5(1/2,SGDP_PRJ)",
+                        "A=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "KCNE1": {
+            "pathways": [
+                " ion transport",
+                " potassium ion transport",
+                " sensory perception of sound",
+                " regulation of ion transmembrane transport",
+                " regulation of ventricular cardiac muscle cell membrane repolarization"
+            ],
+            "summary": "The product of this gene belongs to the potassium channel KCNE family. Potassium ion channels are essential to many cellular functions and show a high degree of diversity, varying in their electrophysiologic and pharmacologic properties. This gene encodes a transmembrane protein known to associate with the product of the KVLQT1 gene to form the delayed rectifier potassium channel. Mutation in this gene are associated with both Jervell and Lange-Nielsen and Romano-Ward forms of long-QT syndrome. Alternatively spliced transcript variants encoding the same protein have been identified. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs74315445": {
+                    "freqs": [
+                        "T=0.000068(17/251386,GnomAD_exome)",
+                        "T=0.000072(9/125568,TOPMED)",
+                        "T=0.000033(4/121246,ExAC)",
+                        "T=0.00001(1/77920,PAGE_STUDY)",
+                        "T=0.00006(2/31390,GnomAD)",
+                        "T=0.0001(1/8760,ALFAProject)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0005(2/3708,TWINSUK)"
+                    ]
+                }
+            }
+        },
+        "KCNH2": {
+            "pathways": [
+                " regulation of heart rate by hormone",
+                " ion transport",
+                " potassium ion transport",
+                " regulation of ion transmembrane transport",
+                " cellular response to drug"
+            ],
+            "summary": "This gene encodes a voltage-activated potassium channel belonging to the eag family. It shares sequence similarity with the Drosophila ether-a-go-go (eag) gene. Mutations in this gene can cause long QT syndrome type 2 (LQT2). Transcript variants encoding distinct isoforms have been identified. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs199472885": {
+                    "freqs": [
+                        "A=0.000100(25/250256,GnomAD_exome)",
+                        "A=0.000032(4/125568,TOPMED)",
+                        "A=0.000042(5/119722,ExAC)",
+                        "A=0.00037(29/78664,PAGE_STUDY)",
+                        "A=0.00003(1/31406,GnomAD)",
+                        "A=0.00009(1/11358,ALFAProject)",
+                        "A=0.0007(2/2916,KOREAN)"
+                    ]
+                }
+            }
+        },
+        "KCNQ1": {
+            "pathways": [
+                " regulation of gene expression by genetic imprinting",
+                " ion transport",
+                " potassium ion transport",
+                " sensory perception of sound",
+                " regulation of heart contraction"
+            ],
+            "summary": "This gene encodes a voltage-gated potassium channel required for repolarization phase of the cardiac action potential. This protein can form heteromultimers with two other potassium channel proteins, KCNE1 and KCNE3. Mutations in this gene are associated with hereditary long QT syndrome 1 (also known as Romano-Ward syndrome), Jervell and Lange-Nielsen syndrome, and familial atrial fibrillation. This gene exhibits tissue-specific imprinting, with preferential expression from the maternal allele in some tissues, and biallelic expression in others. This gene is located in a region of chromosome 11 amongst other imprinted genes that are associated with Beckwith-Wiedemann syndrome (BWS), and itself has been shown to be disrupted by chromosomal rearrangements in patients with BWS. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Aug 2011]",
+            "variants_inf": {
+                "rs17215500": {
+                    "freqs": [
+                        "T=0.000103(26/251412,GnomAD_exome)",
+                        "T=0.000040(5/125568,TOPMED)",
+                        "T=0.000165(20/121128,ExAC)",
+                        "T=0.00013(11/86004,ALFAProject)",
+                        "T=0.00001(1/78700,PAGE_STUDY)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0000(0/3708,TWINSUK)",
+                        "T=0.002(1/600,NorthernSweden)",
+                        "T=0.004(1/278,PharmGKB)"
+                    ]
+                },
+                "rs199472815": {
+                    "freqs": [
+                        "A=0.000020(5/250968,GnomAD_exome)",
+                        "A=0.000024(3/125568,TOPMED)",
+                        "A=0.000033(4/120654,ExAC)",
+                        "A=0.00006(2/31382,GnomAD)",
+                        "A=0.0001(1/8582,ALFAProject)"
+                    ]
+                },
+                "rs199473479": {
+                    "freqs": [
+                        "G=0.00000(0/78686,PAGE_STUDY)",
+                        "G=0.000(0/182,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "LAMA2": {
+            "pathways": [
+                " cell adhesion",
+                " axon guidance",
+                " muscle organ development",
+                " animal organ morphogenesis",
+                " tissue development"
+            ],
+            "summary": "Laminin, an extracellular protein, is a major component of the basement membrane. It is thought to mediate the attachment, migration, and organization of cells into tissues during embryonic development by interacting with other extracellular matrix components. It is composed of three subunits, alpha, beta, and gamma, which are bound to each other by disulfide bonds into a cross-shaped molecule. This gene encodes the alpha 2 chain, which constitutes one of the subunits of laminin 2 (merosin) and laminin 4 (s-merosin). Mutations in this gene have been identified as the cause of congenital merosin-deficient muscular dystrophy. Two transcript variants encoding different proteins have been found for this gene. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs398123372": {
+                    "freqs": [
+                        "delT=0.000024(6/251474,GnomAD_exome)",
+                        "delT=0.000048(6/125568,TOPMED)",
+                        "delT=0.000016(2/121406,ExAC)",
+                        "delT=0.00006(2/31408,GnomAD)",
+                        "delT=0.00064(8/12518,GO-ESP)",
+                        "delT=0.00009(1/11175,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "LDLR": {
+            "pathways": [
+                " lipid metabolic process",
+                " lipid transport",
+                " endocytosis",
+                " receptor-mediated endocytosis",
+                " phagocytosis"
+            ],
+            "summary": "The low density lipoprotein receptor (LDLR) gene family consists of cell surface proteins involved in receptor-mediated endocytosis of specific ligands. Low density lipoprotein (LDL) is normally bound at the cell membrane and taken into the cell ending up in lysosomes where the protein is degraded and the cholesterol is made available for repression of microsomal enzyme 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, the rate-limiting step in cholesterol synthesis. At the same time, a reciprocal stimulation of cholesterol ester synthesis takes place. Mutations in this gene cause the autosomal dominant disorder, familial hypercholesterolemia. Alternate splicing results in multiple transcript variants.[provided by RefSeq, Sep 2010]",
+            "variants_inf": {
+                "rs1057516127": {
+                    "freqs": [
+                        "T=0.00003(1/31336,GnomAD)"
+                    ]
+                },
+                "rs121908029": {
+                    "freqs": [
+                        "C=0.000024(3/125568,TOPMED)",
+                        "T=0.00003(1/31390,GnomAD)",
+                        "A=0.0000(0/2188,ALFAProject)",
+                        "C=0.0000(0/2188,dbGaPPopulationFrequencyProject)",
+                        "T=0.0000(0/2188,dbGaPPopulationFrequencyProject)"
+                    ]
+                },
+                "rs193922570": {
+                    "freqs": [
+                        "C=0.00000(0/78688,PAGE_STUDY)",
+                        "T=0.0001(1/8988,ALFAProject)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)"
+                    ]
+                },
+                "rs730882096": {
+                    "freqs": [
+                        "A=0.000028(7/251066,GnomAD_exome)",
+                        "A=0.000008(1/125568,TOPMED)",
+                        "A=0.000025(3/120814,ExAC)",
+                        "A=0.00003(1/31388,GnomAD)",
+                        "A=0.0000(0/3854,ALSPAC)",
+                        "A=0.0003(1/3708,TWINSUK)",
+                        "A=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs730882102": {
+                    "freqs": [
+                        "T=0.000056(14/251206,GnomAD_exome)",
+                        "T=0.000082(10/121250,ExAC)",
+                        "T=0.00003(1/31372,GnomAD)"
+                    ]
+                },
+                "rs752951310": {
+                    "freqs": [
+                        "C=0.000008(1/120614,ExAC)"
+                    ]
+                }
+            }
+        },
+        "LPL": {
+            "pathways": [
+                " retinoid metabolic process",
+                " lipid metabolic process",
+                " fatty acid metabolic process",
+                " fatty acid biosynthetic process",
+                " triglyceride metabolic process"
+            ],
+            "summary": "LPL encodes lipoprotein lipase, which is expressed in heart, muscle, and adipose tissue. LPL functions as a homodimer, and has the dual functions of triglyceride hydrolase and ligand/bridging factor for receptor-mediated lipoprotein uptake. Severe mutations that cause LPL deficiency result in type I hyperlipoproteinemia, while less extreme mutations in LPL are linked to many disorders of lipoprotein metabolism. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs118204057": {
+                    "freqs": [
+                        "A=0.000191(48/251454,GnomAD_exome)",
+                        "A=0.000255(32/125568,TOPMED)",
+                        "A=0.000132(16/121404,ExAC)",
+                        "A=0.00032(30/94990,ALFAProject)",
+                        "A=0.00017(13/78700,PAGE_STUDY)",
+                        "A=0.00006(2/31402,GnomAD)",
+                        "A=0.0002(1/5008,1000G)",
+                        "A=0.0005(2/3854,ALSPAC)",
+                        "A=0.0003(1/3708,TWINSUK)"
+                    ]
+                },
+                "rs268": {
+                    "freqs": [
+                        "G=0.012780(3212/251336,GnomAD_exome)",
+                        "G=0.010910(1370/125568,TOPMED)",
+                        "G=0.013363(1622/121378,ExAC)",
+                        "G=0.01730(1584/91556,ALFAProject)",
+                        "G=0.00497(391/78696,PAGE_STUDY)",
+                        "G=0.01448(455/31412,GnomAD)",
+                        "G=0.0052(26/5008,1000G)",
+                        "G=0.0239(107/4480,Estonian)",
+                        "G=0.0187(72/3854,ALSPAC)",
+                        "G=0.0200(74/3708,TWINSUK)",
+                        "G=0.030(30/998,GoNL)",
+                        "G=0.006(4/708,HapMap)",
+                        "G=0.028(17/600,NorthernSweden)",
+                        "G=0.013(7/534,MGP)",
+                        "G=0.013(4/304,FINRISK)",
+                        "G=0.05(2/40,GENOME_DK)",
+                        "A=0.5(1/2,SGDP_PRJ)",
+                        "G=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "MIB1": {
+            "pathways": [
+                " blood vessel development",
+                " in utero embryonic development",
+                " somitogenesis",
+                " neural tube formation",
+                " heart looping"
+            ],
+            "summary": "This gene encodes a protein containing multiple ankyrin repeats and RING finger domains that functions as an E3 ubiquitin ligase. The encoded protein positively regulates Notch signaling by ubiquitinating the Notch receptors, thereby facilitating their endocytosis. This protein may also promote the ubiquitination and degradation of death-associated protein kinase 1 (DAPK1). [provided by RefSeq, Jun 2013]",
+            "variants_inf": {
+                "rs200035428": {
+                    "freqs": [
+                        "T=0.000159(40/251270,GnomAD_exome)",
+                        "T=0.000056(7/125568,TOPMED)",
+                        "T=0.000140(17/121276,ExAC)",
+                        "T=0.00011(9/78700,PAGE_STUDY)",
+                        "T=0.00016(5/31400,GnomAD)",
+                        "T=0.00023(3/13004,GO-ESP)",
+                        "T=0.0002(1/5008,1000G)",
+                        "T=0.0000(0/2370,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYBPC3": {
+            "pathways": [
+                " heart morphogenesis",
+                " regulation of striated muscle contraction",
+                " cell adhesion",
+                " muscle filament sliding",
+                " positive regulation of ATPase activity"
+            ],
+            "summary": "MYBPC3 encodes the cardiac isoform of myosin-binding protein C. Myosin-binding protein C is a myosin-associated protein found in the cross-bridge-bearing zone (C region) of A bands in striated muscle. MYBPC3, the cardiac isoform, is expressed exclussively in heart muscle. Regulatory phosphorylation of the cardiac isoform in vivo by cAMP-dependent protein kinase (PKA) upon adrenergic stimulation may be linked to modulation of cardiac contraction. Mutations in MYBPC3 are one cause of familial hypertrophic cardiomyopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs397515912": {
+                    "freqs": [
+                        "T=0.000056(7/125568,TOPMED)",
+                        "T=0.00004(3/78684,PAGE_STUDY)",
+                        "G=0.00006(2/31376,GnomAD)",
+                        "T=0.00018(2/11358,ALFAProject)",
+                        "G=0.0002(1/5008,1000G)"
+                    ]
+                },
+                "rs397516050": {
+                    "freqs": [
+                        "T=0.000065(11/169270,GnomAD_exome)",
+                        "T=0.000104(13/125568,TOPMED)",
+                        "T=0.00006(2/31398,GnomAD)",
+                        "T=0.00004(1/23806,ExAC)",
+                        "T=0.00009(1/11176,ALFAProject)"
+                    ]
+                },
+                "rs727503212": {
+                    "freqs": [
+                        "delC=0.000011(2/186304,GnomAD_exome)",
+                        "delC=0.000008(1/125568,TOPMED)",
+                        "delC=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYH7": {
+            "pathways": [
+                " regulation of the force of heart contraction",
+                " regulation of heart rate",
+                " skeletal muscle contraction",
+                " muscle contraction",
+                " striated muscle contraction"
+            ],
+            "summary": "Muscle myosin is a hexameric protein containing 2 heavy chain subunits, 2 alkali light chain subunits, and 2 regulatory light chain subunits. This gene encodes the beta (or slow) heavy chain subunit of cardiac myosin. It is expressed predominantly in normal human ventricle. It is also expressed in skeletal muscle tissues rich in slow-twitch type I muscle fibers. Changes in the relative abundance of this protein and the alpha (or fast) heavy subunit of cardiac myosin correlate with the contractile velocity of cardiac muscle. Its expression is also altered during thyroid hormone depletion and hemodynamic overloading. Mutations in this gene are associated with familial hypertrophic cardiomyopathy, myosin storage myopathy, dilated cardiomyopathy, and Laing early-onset distal myopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs202141173": {
+                    "freqs": [
+                        "T=0.000024(6/251440,GnomAD_exome)",
+                        "T=0.000088(11/125568,TOPMED)",
+                        "T=0.000033(4/121390,ExAC)",
+                        "T=0.0002(1/5008,1000G)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs371898076": {
+                    "freqs": [
+                        "T=0.000008(2/251480,GnomAD_exome)",
+                        "T=0.000024(3/125568,TOPMED)",
+                        "T=0.000016(2/121338,ExAC)",
+                        "T=0.00001(1/78696,PAGE_STUDY)",
+                        "T=0.00009(3/35240,ALFAProject)",
+                        "T=0.00006(2/31362,GnomAD)",
+                        "T=0.00008(1/13006,GO-ESP)"
+                    ]
+                },
+                "rs727503278": {
+                    "freqs": [
+                        "A=0.000028(7/251480,GnomAD_exome)",
+                        "T=0.000008(1/125568,TOPMED)",
+                        "A=0.000049(6/121402,ExAC)",
+                        "A=0.0000(0/8584,ALFAProject)",
+                        "T=0.0000(0/8584,dbGaPPopulationFrequencyProject)"
+                    ]
+                }
+            }
+        },
+        "MYL2": {
+            "pathways": [
+                " regulation of the force of heart contraction",
+                " heart morphogenesis",
+                " regulation of striated muscle contraction",
+                " heart development",
+                " post-embryonic development"
+            ],
+            "summary": "Thus gene encodes the regulatory light chain associated with cardiac myosin beta (or slow) heavy chain. Ca+ triggers the phosphorylation of regulatory light chain that in turn triggers contraction. Mutations in this gene are associated with mid-left ventricular chamber type hypertrophic cardiomyopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs143139258": {
+                    "freqs": [
+                        "G=0.000199(50/251490,GnomAD_exome)",
+                        "G=0.000223(28/125568,TOPMED)",
+                        "G=0.000157(19/121396,ExAC)",
+                        "G=0.00018(14/78696,PAGE_STUDY)",
+                        "G=0.00022(7/31336,GnomAD)",
+                        "G=0.00079(14/17750,ALFAProject)",
+                        "G=0.00038(5/13006,GO-ESP)",
+                        "G=0.0002(1/4480,Estonian)",
+                        "G=0.0003(1/3854,ALSPAC)",
+                        "G=0.0003(1/3708,TWINSUK)",
+                        "G=0.001(1/998,GoNL)",
+                        "G=0.002(1/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "PKP2": {
+            "pathways": [
+                " desmosome assembly",
+                " desmosome organization",
+                " cell-cell junction assembly",
+                " cell adhesion",
+                " heart development"
+            ],
+            "summary": "This gene encodes a member of the arm-repeat (armadillo) and plakophilin gene families. Plakophilin proteins contain numerous armadillo repeats, localize to cell desmosomes and nuclei, and participate in linking cadherins to intermediate filaments in the cytoskeleton. This gene product may regulate the signaling activity of beta-catenin. Two alternately spliced transcripts encoding two protein isoforms have been identified. A processed pseudogene with high similarity to this locus has been mapped to chromosome 12p13. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs397517003": {
+                    "freqs": [
+                        "T=0.000004(1/250998,GnomAD_exome)",
+                        "T=0.000008(1/125568,TOPMED)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "PTPN11": {
+            "pathways": [
+                " DNA damage checkpoint",
+                " activation of MAPK activity",
+                " protein dephosphorylation",
+                " lipid metabolic process",
+                " triglyceride metabolic process"
+            ],
+            "summary": "The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. This PTP contains two tandem Src homology-2 domains, which function as phospho-tyrosine binding domains and mediate the interaction of this PTP with its substrates. This PTP is widely expressed in most tissues and plays a regulatory role in various cell signaling events that are important for a diversity of cell functions, such as mitogenic activation, metabolic control, transcription regulation, and cell migration. Mutations in this gene are a cause of Noonan syndrome as well as acute myeloid leukemia. [provided by RefSeq, Aug 2016]",
+            "variants_inf": {
+                "rs121918457": {
+                    "freqs": [
+                        "T=0.000004(1/251186,GnomAD_exome)",
+                        "T=0.000008(1/121412,ExAC)",
+                        "T=0.00000(0/78684,PAGE_STUDY)",
+                        "T=0.0000(0/6578,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "RYR1": {
+            "pathways": [
+                " response to hypoxia",
+                " outflow tract morphogenesis",
+                " ion transport",
+                " calcium ion transport",
+                " cellular calcium ion homeostasis"
+            ],
+            "summary": "This gene encodes a ryanodine receptor found in skeletal muscle. The encoded protein functions as a calcium release channel in the sarcoplasmic reticulum but also serves to connect the sarcoplasmic reticulum and transverse tubule. Mutations in this gene are associated with malignant hyperthermia susceptibility, central core disease, and minicore myopathy with external ophthalmoplegia. Alternatively spliced transcripts encoding different isoforms have been described. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs1064793932": {
+                    "freqs": []
+                },
+                "rs1456276440": {
+                    "freqs": [
+                        "T=0.000004(1/251234,GnomAD_exome)"
+                    ]
+                },
+                "rs779723153": {
+                    "freqs": [
+                        "delCT=0.000008(2/244864,GnomAD_exome)",
+                        "delCT=0.000040(5/125568,TOPMED)",
+                        "delCT=0.000008(1/118210,ExAC)",
+                        "delCT=0.00003(1/31348,GnomAD)",
+                        "delCT=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "SCN5A": {
+            "pathways": [
+                " regulation of heart rate",
+                " cardiac ventricle development",
+                " brainstem development",
+                " ion transport",
+                " sodium ion transport"
+            ],
+            "summary": "The protein encoded by this gene is an integral membrane protein and tetrodotoxin-resistant voltage-gated sodium channel subunit. This protein is found primarily in cardiac muscle and is responsible for the initial upstroke of the action potential in an electrocardiogram. Defects in this gene are a cause of long QT syndrome type 3 (LQT3), an autosomal dominant cardiac disease. Alternative splicing results in several transcript variants encoding different isoforms. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs199473072": {
+                    "freqs": [
+                        "A=0.000012(3/242066,GnomAD_exome)",
+                        "A=0.000048(6/125568,TOPMED)",
+                        "A=0.00001(1/70176,ExAC)",
+                        "A=0.00010(3/31406,GnomAD)",
+                        "A=0.00008(1/12328,GO-ESP)",
+                        "A=0.0000(0/8580,ALFAProject)"
+                    ]
+                },
+                "rs199473603": {
+                    "freqs": [
+                        "A=0.000178(44/247644,GnomAD_exome)",
+                        "A=0.000271(34/125568,TOPMED)",
+                        "A=0.000225(24/106676,ExAC)",
+                        "A=0.00036(34/94986,ALFAProject)",
+                        "A=0.00003(2/78692,PAGE_STUDY)",
+                        "A=0.00006(2/31386,GnomAD)",
+                        "A=0.00040(5/12644,GO-ESP)",
+                        "A=0.0002(1/5008,1000G)",
+                        "A=0.0003(1/3854,ALSPAC)",
+                        "A=0.0005(2/3708,TWINSUK)"
+                    ]
+                },
+                "rs757532106": {
+                    "freqs": [
+                        "A=0.000045(11/245204,GnomAD_exome)",
+                        "A=0.000040(5/125568,TOPMED)",
+                        "A=0.000070(8/113650,ExAC)",
+                        "A=0.00006(2/31394,GnomAD)",
+                        "A=0.00006(1/17562,ALFAProject)"
+                    ]
+                },
+                "rs765669597": {
+                    "freqs": [
+                        "T=0.000005(1/212734,GnomAD_exome)",
+                        "C=0.000008(1/125568,TOPMED)",
+                        "T=0.00000(0/46384,ExAC)",
+                        "C=0.00003(1/31400,GnomAD)",
+                        "C=0.0000(0/3854,ALSPAC)",
+                        "C=0.0003(1/3708,TWINSUK)",
+                        "C=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs794728888": {
+                    "freqs": [
+                        "T=0.000016(2/125568,TOPMED)",
+                        "T=0.00006(2/31386,GnomAD)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "TGFBR2": {
+            "pathways": [
+                " blood vessel development",
+                " branching involved in blood vessel morphogenesis",
+                " vasculogenesis",
+                " response to hypoxia",
+                " in utero embryonic development"
+            ],
+            "summary": "The protein encoded by this gene is a transmembrane protein that has a protein kinase domain, forms a heterodimeric complex with TGF-beta receptor type-1, and binds TGF-beta. This receptor/ligand complex phosphorylates proteins, which then enter the nucleus and regulate the transcription of genes related to cell proliferation, cell cycle arrest, wound healing, immunosuppression, and tumorigenesis. Mutations in this gene have been associated with Marfan Syndrome, Loeys-Deitz Aortic Aneurysm Syndrome, and the development of various types of tumors. Alternatively spliced transcript variants encoding different isoforms have been characterized. [provided by RefSeq, Aug 2017]",
+            "variants_inf": {
+                "rs193922665": {
+                    "freqs": [
+                        "A=0.000008(1/125568,TOPMED)",
+                        "A=0.00003(1/31346,GnomAD)",
+                        "A=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "TTN": {
+            "pathways": [
+                " platelet degranulation",
+                " cardiac muscle hypertrophy",
+                " protein phosphorylation",
+                " muscle contraction",
+                " striated muscle contraction"
+            ],
+            "summary": "This gene encodes a large abundant protein of striated muscle. The product of this gene is divided into two regions, a N-terminal I-band and a C-terminal A-band. The I-band, which is the elastic part of the molecule, contains two regions of tandem immunoglobulin domains on either side of a PEVK region that is rich in proline, glutamate, valine and lysine. The A-band, which is thought to act as a protein-ruler, contains a mixture of immunoglobulin and fibronectin repeats, and possesses kinase activity. An N-terminal Z-disc region and a C-terminal M-line region bind to the Z-line and M-line of the sarcomere, respectively, so that a single titin molecule spans half the length of a sarcomere. Titin also contains binding sites for muscle associated proteins so it serves as an adhesion template for the assembly of contractile machinery in muscle cells. It has also been identified as a structural protein for chromosomes. Alternative splicing of this gene results in multiple transcript variants. Considerable variability exists in the I-band, the M-line and the Z-disc regions of titin. Variability in the I-band region contributes to the differences in elasticity of different titin isoforms and, therefore, to the differences in elasticity of different muscle types. Mutations in this gene are associated with familial hypertrophic cardiomyopathy 9, and autoantibodies to titin are produced in patients with the autoimmune disease scleroderma. [provided by RefSeq, Feb 2012]",
+            "variants_inf": {
+                "rs755956493": {
+                    "freqs": [
+                        "A=0.000060(15/248982,GnomAD_exome)",
+                        "A=0.000032(4/125568,TOPMED)",
+                        "A=0.000067(8/120068,ExAC)",
+                        "A=0.00006(2/31360,GnomAD)",
+                        "A=0.0000(0/8572,ALFAProject)"
+                    ]
+                },
+                "rs756339648": {
+                    "freqs": [
+                        "T=0.000009(1/114636,ExAC)"
+                    ]
+                }
+            }
+        },
+        "TTR": {
+            "pathways": [
+                " retinoid metabolic process",
+                " purine nucleobase metabolic process",
+                " signal transduction",
+                " extracellular matrix organization",
+                " retinol metabolic process"
+            ],
+            "summary": "This gene encodes one of the three prealbumins, which include alpha-1-antitrypsin, transthyretin and orosomucoid. The encoded protein, transthyretin, is a homo-tetrameric carrier protein, which transports thyroid hormones in the plasma and cerebrospinal fluid. It is also involved in the transport of retinol (vitamin A) in the plasma by associating with retinol-binding protein. The protein may also be involved in other intracellular processes including proteolysis, nerve regeneration, autophagy and glucose homeostasis. Mutations in this gene are associated with amyloid deposition, predominantly affecting peripheral nerves or the heart, while a small percentage of the gene mutations are non-amyloidogenic. The mutations are implicated in the etiology of several diseases, including amyloidotic polyneuropathy, euthyroid hyperthyroxinaemia, amyloidotic vitreous opacities, cardiomyopathy, oculoleptomeningeal amyloidosis, meningocerebrovascular amyloidosis and carpal tunnel syndrome. [provided by RefSeq, Aug 2017]",
+            "variants_inf": {
+                "rs76992529": {
+                    "freqs": [
+                        "A=0.001126(283/251408,GnomAD_exome)",
+                        "A=0.005543(696/125568,TOPMED)",
+                        "A=0.001376(167/121360,ExAC)",
+                        "A=0.00077(76/99094,ALFAProject)",
+                        "A=0.00825(649/78702,PAGE_STUDY)",
+                        "A=0.00484(152/31384,GnomAD)",
+                        "A=0.00592(77/13006,GO-ESP)",
+                        "A=0.0056(28/5008,1000G)",
+                        "A=0.009(2/216,Vietnamese)"
+                    ]
+                }
+            }
+        }
+    },
+    "med": {
+        "ABCG8": {
+            "pathways": [
+                " lipid transport",
+                " response to nutrient",
+                " excretion",
+                " negative regulation of intestinal phytosterol absorption",
+                " phospholipid transport"
+            ],
+            "summary": "The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra- and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This protein is a member of the White subfamily. The protein encoded by this gene functions to exclude non-cholesterol sterol entry at the intestinal level, promote excretion of cholesterol and sterols into bile, and to facilitate transport of sterols back into the intestinal lumen. It is expressed in a tissue-specific manner in the liver, intestine, and gallbladder. This gene is tandemly arrayed on chromosome 2, in a head-to-head orientation with family member ABCG5. Mutations in this gene may contribute to sterol accumulation and atherosclerosis, and have been observed in patients with sitosterolemia. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs137852987": {
+                    "freqs": [
+                        "A=0.000653(82/125568,TOPMED)",
+                        "A=0.00098(93/94986,ALFAProject)",
+                        "A=0.00039(31/78700,PAGE_STUDY)",
+                        "A=0.00102(32/31410,GnomAD)",
+                        "T=0.0004(2/5008,1000G)",
+                        "A=0.0013(6/4480,Estonian)",
+                        "A=0.0005(2/3854,ALSPAC)",
+                        "A=0.0011(4/3708,TWINSUK)",
+                        "A=0.003(2/600,NorthernSweden)"
+                    ]
+                },
+                "rs137852991": {
+                    "freqs": [
+                        "T=0.000099(25/251416,GnomAD_exome)",
+                        "T=0.000151(19/125568,TOPMED)",
+                        "T=0.000107(13/121410,ExAC)",
+                        "T=0.00008(7/85926,ALFAProject)",
+                        "T=0.00018(14/78698,PAGE_STUDY)",
+                        "T=0.00003(1/31392,GnomAD)"
+                    ]
+                }
+            }
+        },
+        "ACTN2": {
+            "pathways": [
+                " MAPK cascade",
+                " platelet degranulation",
+                " muscle contraction",
+                " cell adhesion",
+                " microspike assembly"
+            ],
+            "summary": "Alpha actinins belong to the spectrin gene superfamily which represents a diverse group of cytoskeletal proteins, including the alpha and beta spectrins and dystrophins. Alpha actinin is an actin-binding protein with multiple roles in different cell types. In nonmuscle cells, the cytoskeletal isoform is found along microfilament bundles and adherens-type junctions, where it is involved in binding actin to the membrane. In contrast, skeletal, cardiac, and smooth muscle isoforms are localized to the Z-disc and analogous dense bodies, where they help anchor the myofibrillar actin filaments. This gene encodes a muscle-specific, alpha actinin isoform that is expressed in both skeletal and cardiac muscles. Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2013]",
+            "variants_inf": {
+                "rs747400815": {
+                    "freqs": [
+                        "T=0.000108(27/250048,GnomAD_exome)",
+                        "T=0.000207(26/125568,TOPMED)",
+                        "T=0.000068(8/117738,ExAC)",
+                        "T=0.00016(5/31406,GnomAD)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)",
+                        "G=0.0000(0/2184,ALFAProject)",
+                        "T=0.0000(0/2184,dbGaPPopulationFrequencyProject)"
+                    ]
+                }
+            }
+        },
+        "ALMS1": {
+            "pathways": [
+                " G2/M transition of mitotic cell cycle",
+                " regulation of G2/M transition of mitotic cell cycle",
+                " endosomal transport",
+                " regulation of centriole replication",
+                " regulation of stress fiber assembly"
+            ],
+            "summary": "This gene encodes a protein containing a large tandem-repeat domain as well as additional low complexity regions. The encoded protein functions in microtubule organization, particularly in the formation and maintanance of cilia. Mutations in this gene cause Alstrom syndrome. There is a pseudogene for this gene located adjacent in the same region of chromosome 2. Alternative splice variants have been described but their full length nature has not been determined. [provided by RefSeq, Apr 2014]",
+            "variants_inf": {
+                "rs1225343345": {
+                    "freqs": [
+                        "delGA=0.000004(1/249188,GnomAD_exome)"
+                    ]
+                },
+                "rs1370417967": {
+                    "freqs": [
+                        "delATAG=0.000008(1/125568,TOPMED)",
+                        "delATAG=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs201819880": {
+                    "freqs": [
+                        "G=0.000454(113/248648,GnomAD_exome)",
+                        "G=0.000542(68/125568,TOPMED)",
+                        "G=0.000424(51/120170,ExAC)",
+                        "G=0.00018(14/78696,PAGE_STUDY)",
+                        "G=0.00051(16/31386,GnomAD)",
+                        "G=0.00073(13/17742,ALFAProject)",
+                        "G=0.00073(9/12302,GO-ESP)",
+                        "G=0.0002(1/4480,Estonian)",
+                        "G=0.0010(4/3854,ALSPAC)",
+                        "G=0.0000(0/3708,TWINSUK)"
+                    ]
+                },
+                "rs549857076": {
+                    "freqs": [
+                        "G=0.000008(1/120666,ExAC)",
+                        "G=0.0002(1/5008,1000G)"
+                    ]
+                },
+                "rs772624348": {
+                    "freqs": [
+                        "T=0.000024(3/125568,TOPMED)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "ANKRD1": {
+            "pathways": [
+                " negative regulation of transcription by RNA polymerase II",
+                " regulation of transcription by RNA polymerase II",
+                " positive regulation of neuron projection development",
+                " regulation of lipid metabolic process",
+                " cellular response to drug"
+            ],
+            "summary": "The protein encoded by this gene is localized to the nucleus of endothelial cells and is induced by IL-1 and TNF-alpha stimulation. Studies in rat cardiomyocytes suggest that this gene functions as a transcription factor. Interactions between this protein and the sarcomeric proteins myopalladin and titin suggest that it may also be involved in the myofibrillar stretch-sensor system. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs183061595": {
+                    "freqs": [
+                        "G=0.000076(19/251082,GnomAD_exome)",
+                        "G=0.000454(57/125568,TOPMED)",
+                        "G=0.000091(11/121118,ExAC)",
+                        "G=0.00001(1/85978,ALFAProject)",
+                        "G=0.00047(37/78700,PAGE_STUDY)",
+                        "G=0.00041(13/31396,GnomAD)",
+                        "G=0.00015(2/13006,GO-ESP)",
+                        "G=0.0006(3/5008,1000G)",
+                        "A=0.5(1/2,Siberian)",
+                        "G=0.5(1/2,Siberian)"
+                    ]
+                }
+            }
+        },
+        "APOA5": {
+            "pathways": [
+                " triglyceride metabolic process",
+                " cholesterol biosynthetic process",
+                " lipid transport",
+                " positive regulation of cholesterol esterification",
+                " positive regulation of triglyceride catabolic process"
+            ],
+            "summary": "The protein encoded by this gene is an apolipoprotein that plays an important role in regulating the plasma triglyceride levels, a major risk factor for coronary artery disease. It is a component of high density lipoprotein and is highly similar to a rat protein that is upregulated in response to liver injury. Mutations in this gene have been associated with hypertriglyceridemia and hyperlipoproteinemia type 5. This gene is located proximal to the apolipoprotein gene cluster on chromosome 11q23. Alternatively spliced transcript variants encoding the same protein have been identified. [provided by RefSeq, Oct 2009]",
+            "variants_inf": {
+                "rs3135506": {
+                    "freqs": [
+                        "C=0.064650(8118/125568,TOPMED)",
+                        "C=0.07436(5852/78700,PAGE_STUDY)",
+                        "C=0.05324(643/12078,ALFAProject)",
+                        "C=0.0557(279/5008,1000G)",
+                        "C=0.0638(286/4480,Estonian)",
+                        "C=0.0643(248/3854,ALSPAC)",
+                        "C=0.0620(230/3708,TWINSUK)",
+                        "C=0.066(66/998,GoNL)",
+                        "C=0.003(2/616,Vietnamese)",
+                        "C=0.065(39/600,NorthernSweden)",
+                        "C=0.060(32/534,MGP)",
+                        "C=0.056(12/216,Qatari)",
+                        "G=0.45(28/62,SGDP_PRJ)",
+                        "C=0.03(1/40,GENOME_DK)",
+                        "G=0.5(1/2,Siberian)",
+                        "C=0.5(1/2,Siberian)"
+                    ]
+                }
+            }
+        },
+        "APOB": {
+            "pathways": [
+                " retinoid metabolic process",
+                " in utero embryonic development",
+                " toll-like receptor signaling pathway",
+                " lipid metabolic process",
+                " triglyceride mobilization"
+            ],
+            "summary": "This gene product is the main apolipoprotein of chylomicrons and low density lipoproteins (LDL), and is the ligand for the LDL receptor. It occurs in plasma as two main isoforms, apoB-48 and apoB-100: the former is synthesized exclusively in the gut and the latter in the liver. The intestinal and the hepatic forms of apoB are encoded by a single gene from a single, very long mRNA. The two isoforms share a common N-terminal sequence. The shorter apoB-48 protein is produced after RNA editing of the apoB-100 transcript at residue 2180 (CAA->UAA), resulting in the creation of a stop codon, and early translation termination. Mutations in this gene or its regulatory region cause hypobetalipoproteinemia, normotriglyceridemic hypobetalipoproteinemia, and hypercholesterolemia due to ligand-defective apoB, diseases affecting plasma cholesterol and apoB levels. [provided by RefSeq, Dec 2019]",
+            "variants_inf": {
+                "rs147564959": {
+                    "freqs": [
+                        "T=0.000135(17/125568,TOPMED)",
+                        "T=0.000074(9/121224,ExAC)",
+                        "T=0.00014(12/88598,ALFAProject)",
+                        "T=0.00008(6/78700,PAGE_STUDY)",
+                        "T=0.00006(2/31404,GnomAD)",
+                        "T=0.00031(4/13006,GO-ESP)",
+                        "T=0.0002(1/5008,1000G)"
+                    ]
+                }
+            }
+        },
+        "APOC2": {
+            "pathways": [
+                " retinoid metabolic process",
+                " lipid metabolic process",
+                " lipid transport",
+                " positive regulation of phospholipase activity",
+                " positive regulation of triglyceride catabolic process"
+            ],
+            "summary": "This gene encodes a lipid-binding protein belonging to the apolipoprotein gene family. The protein is secreted in plasma where it is a component of very low density lipoprotein. This protein activates the enzyme lipoprotein lipase, which hydrolyzes triglycerides and thus provides free fatty acids for cells. Mutations in this gene cause hyperlipoproteinemia type IB, characterized by hypertriglyceridemia, xanthomas, and increased risk of pancreatitis and early atherosclerosis. This gene is present in a cluster with other related apolipoprotein genes on chromosome 19. Naturally occurring read-through transcription exists between this gene and the neighboring upstream apolipoprotein C-IV (APOC4) gene. [provided by RefSeq, Mar 2011]",
+            "variants_inf": {
+                "rs120074114": {
+                    "freqs": [
+                        "C=0.000692(174/251452,GnomAD_exome)",
+                        "C=0.000868(109/125568,TOPMED)",
+                        "C=0.000866(105/121256,ExAC)",
+                        "C=0.00033(26/78692,PAGE_STUDY)",
+                        "C=0.00041(13/31370,GnomAD)",
+                        "C=0.00135(24/17748,ALFAProject)",
+                        "C=0.0004(2/5008,1000G)",
+                        "C=0.0005(2/3854,ALSPAC)",
+                        "C=0.0003(1/3708,TWINSUK)",
+                        "C=0.001(1/998,GoNL)",
+                        "A=0.5(1/2,SGDP_PRJ)",
+                        "C=0.5(1/2,SGDP_PRJ)"
+                    ]
+                },
+                "rs5126": {
+                    "freqs": [
+                        "C=0.001828(459/251064,GnomAD_exome)",
+                        "C=0.008211(1031/125568,TOPMED)",
+                        "C=0.002375(276/116204,ExAC)",
+                        "C=0.00028(26/92886,ALFAProject)",
+                        "C=0.01219(959/78702,PAGE_STUDY)",
+                        "C=0.00701(220/31370,GnomAD)",
+                        "C=0.0078(39/5008,1000G)",
+                        "C=0.021(7/328,HapMap)",
+                        "C=0.009(2/216,Qatari)",
+                        "A=0.5(1/2,SGDP_PRJ)",
+                        "C=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "APOE": {
+            "pathways": [
+                " response to reactive oxygen species",
+                " retinoid metabolic process",
+                " negative regulation of endothelial cell proliferation",
+                " response to dietary excess",
+                " regulation of transcription by RNA polymerase II"
+            ],
+            "summary": "The protein encoded by this gene is a major apoprotein of the chylomicron. It binds to a specific liver and peripheral cell receptor, and is essential for the normal catabolism of triglyceride-rich lipoprotein constituents. This gene maps to chromosome 19 in a cluster with the related apolipoprotein C1 and C2 genes. Mutations in this gene result in familial dysbetalipoproteinemia, or type III hyperlipoproteinemia (HLP III), in which increased plasma cholesterol and triglycerides are the consequence of impaired clearance of chylomicron and VLDL remnants. [provided by RefSeq, Jun 2016]",
+            "variants_inf": {
+                "rs199768005": {
+                    "freqs": [
+                        "A=0.000452(75/165832,GnomAD_exome)",
+                        "A=0.000462(58/125568,TOPMED)",
+                        "A=0.00045(14/31272,GnomAD)",
+                        "A=0.00135(25/18518,ExAC)",
+                        "A=0.00079(10/12682,GO-ESP)",
+                        "A=0.0009(2/2188,ALFAProject)"
+                    ]
+                },
+                "rs769455": {
+                    "freqs": [
+                        "T=0.001421(220/154854,GnomAD_exome)",
+                        "T=0.006706(842/125568,TOPMED)",
+                        "T=0.00053(47/89298,ALFAProject)",
+                        "T=0.00554(173/31232,GnomAD)",
+                        "T=0.00264(39/14800,ExAC)",
+                        "T=0.0074(37/5008,1000G)",
+                        "T=0.026(7/274,HapMap)",
+                        "T=0.009(2/216,Qatari)",
+                        "C=0.5(1/2,SGDP_PRJ)",
+                        "T=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "CACNA1C": {
+            "pathways": [
+                " immune system development",
+                " ion transport",
+                " calcium ion transport",
+                " positive regulation of cytosolic calcium ion concentration",
+                " heart development"
+            ],
+            "summary": "This gene encodes an alpha-1 subunit of a voltage-dependent calcium channel. Calcium channels mediate the influx of calcium ions into the cell upon membrane polarization. The alpha-1 subunit consists of 24 transmembrane segments and forms the pore through which ions pass into the cell. The calcium channel consists of a complex of alpha-1, alpha-2/delta, beta, and gamma subunits in a 1:1:1:1 ratio. There are multiple isoforms of each of these proteins, either encoded by different genes or the result of alternative splicing of transcripts. The protein encoded by this gene binds to and is inhibited by dihydropyridine. Alternative splicing results in many transcript variants encoding different proteins. Some of the predicted proteins may not produce functional ion channel subunits. [provided by RefSeq, Oct 2012]",
+            "variants_inf": {
+                "rs200588235": {
+                    "freqs": [
+                        "G=0.000358(45/125568,TOPMED)",
+                        "G=0.00000(0/85990,ALFAProject)",
+                        "G=0.00052(41/78702,PAGE_STUDY)",
+                        "G=0.00019(8/42540,ExAC)",
+                        "G=0.00019(6/31406,GnomAD)",
+                        "G=0.00016(2/12352,GO-ESP)"
+                    ]
+                }
+            }
+        },
+        "CALR3": {
+            "pathways": [
+                " protein folding",
+                " spermatogenesis",
+                " biological_process",
+                " cell differentiation",
+                " endoplasmic reticulum unfolded protein response"
+            ],
+            "summary": "The protein encoded by this gene belongs to the calreticulin family, members of which are calcium-binding chaperones localized mainly in the endoplasmic reticulum. This protein is also localized to the endoplasmic reticulum lumen, however, its capacity for calcium-binding may be absent or much lower than other family members. This gene is specifically expressed in the testis, and may be required for sperm fertility. Mutation in this gene has been associated with familial hypertrophic cardiomyopathy. [provided by RefSeq, Dec 2011]",
+            "variants_inf": {
+                "rs777429499": {
+                    "freqs": [
+                        "T=0.000060(15/251474,GnomAD_exome)",
+                        "T=0.000159(20/125568,TOPMED)",
+                        "T=0.000058(7/121408,ExAC)",
+                        "T=0.00010(3/31338,GnomAD)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "CBL": {
+            "pathways": [
+                " protein polyubiquitination",
+                " ubiquitin-dependent protein catabolic process",
+                " protein monoubiquitination",
+                " cellular response to DNA damage stimulus",
+                " signal transduction"
+            ],
+            "summary": "This gene is a proto-oncogene that encodes a RING finger E3 ubiquitin ligase. The encoded protein is one of the enzymes required for targeting substrates for degradation by the proteasome. This protein mediates the transfer of ubiquitin from ubiquitin conjugating enzymes (E2) to specific substrates. This protein also contains an N-terminal phosphotyrosine binding domain that allows it to interact with numerous tyrosine-phosphorylated substrates and target them for proteasome degradation. As such it functions as a negative regulator of many signal transduction pathways. This gene has been found to be mutated or translocated in many cancers including acute myeloid leukaemia, and expansion of CGG repeats in the 5' UTR has been associated with Jacobsen syndrome. Mutations in this gene are also the cause of Noonan syndrome-like disorder. [provided by RefSeq, Jul 2016]",
+            "variants_inf": {
+                "rs146705974": {
+                    "freqs": [
+                        "T=0.000060(15/251364,GnomAD_exome)",
+                        "T=0.000072(9/125568,TOPMED)",
+                        "T=0.000066(8/120674,ExAC)",
+                        "T=0.00019(17/88598,ALFAProject)",
+                        "T=0.00010(8/78696,PAGE_STUDY)",
+                        "T=0.00013(4/31398,GnomAD)",
+                        "T=0.00023(3/12988,GO-ESP)"
+                    ]
+                }
+            }
+        },
+        "CBS": {
+            "pathways": [
+                " cysteine biosynthetic process from serine",
+                " L-serine metabolic process",
+                " L-serine catabolic process",
+                " metabolic process",
+                " cellular amino acid biosynthetic process"
+            ],
+            "summary": "The protein encoded by this gene acts as a homotetramer to catalyze the conversion of homocysteine to cystathionine, the first step in the transsulfuration pathway. The encoded protein is allosterically activated by adenosyl-methionine and uses pyridoxal phosphate as a cofactor. Defects in this gene can cause cystathionine beta-synthase deficiency (CBSD), which can lead to homocystinuria. This gene is a major contributor to cellular hydrogen sulfide production. Multiple alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Feb 2016]",
+            "variants_inf": {
+                "rs121964962": {
+                    "freqs": [
+                        "T=0.000155(39/251400,GnomAD_exome)",
+                        "T=0.000157(19/121292,ExAC)",
+                        "T=0.00026(24/92796,ALFAProject)",
+                        "T=0.00001(1/78694,PAGE_STUDY)",
+                        "T=0.00025(8/31396,GnomAD)",
+                        "T=0.0002(1/4480,Estonian)"
+                    ]
+                },
+                "rs121964969": {
+                    "freqs": [
+                        "T=0.000008(2/249680,GnomAD_exome)"
+                    ]
+                },
+                "rs28934891": {
+                    "freqs": [
+                        "T=0.000334(56/167900,GnomAD_exome)",
+                        "T=0.00029(27/92640,ALFAProject)",
+                        "T=0.00033(26/78610,PAGE_STUDY)",
+                        "T=0.00026(8/31360,GnomAD)",
+                        "T=0.00030(7/23348,ExAC)",
+                        "T=0.0004(2/5008,1000G)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0005(2/3708,TWINSUK)",
+                        "T=0.002(1/534,MGP)"
+                    ]
+                },
+                "rs372010465": {
+                    "freqs": [
+                        "T=0.000008(2/247926,GnomAD_exome)",
+                        "T=0.000025(3/118276,ExAC)",
+                        "T=0.00008(1/13006,GO-ESP)",
+                        "T=0.0000(0/6394,ALFAProject)"
+                    ]
+                },
+                "rs5742905": {
+                    "freqs": [
+                        "G=0.00783(730/93287,ALFAProject)",
+                        "G=0.00025(20/78612,PAGE_STUDY)",
+                        "G=0.00083(26/31224,GnomAD)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0034(10/2922,KOREAN)",
+                        "G=0.011(11/998,GoNL)",
+                        "G=0.000(0/304,HapMap)",
+                        "G=0.069(15/216,Qatari)",
+                        "A=0.50(28/56,SGDP_PRJ)",
+                        "G=0.50(28/56,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "DMD": {
+            "pathways": [
+                " positive regulation of cell-matrix adhesion",
+                " regulation of heart rate",
+                " regulation of transcription, DNA-templated",
+                " cytoskeleton organization",
+                " muscle organ development"
+            ],
+            "summary": "This gene spans a genomic range of greater than 2 Mb and encodes a large protein containing an N-terminal actin-binding domain and multiple spectrin repeats. The encoded protein forms a component of the dystrophin-glycoprotein complex (DGC), which bridges the inner cytoskeleton and the extracellular matrix. Deletions, duplications, and point mutations at this gene locus may cause Duchenne muscular dystrophy (DMD), Becker muscular dystrophy (BMD), or cardiomyopathy. Alternative promoter usage and alternative splicing result in numerous distinct transcript variants and protein isoforms for this gene. [provided by RefSeq, Dec 2016]",
+            "variants_inf": {
+                "rs145603325": {
+                    "freqs": [
+                        "T=0.000240(43/179061,GnomAD_exome)",
+                        "T=0.001075(135/125568,TOPMED)",
+                        "T=0.00004(4/94976,ALFAProject)",
+                        "T=0.00027(20/73813,ExAC)",
+                        "T=0.00051(11/21752,GnomAD)",
+                        "T=0.00057(6/10561,GO-ESP)",
+                        "T=0.0003(1/3775,1000G)",
+                        "T=0.0007(2/2918,KOREAN)"
+                    ]
+                }
+            }
+        },
+        "DSP": {
+            "pathways": [
+                " desmosome organization",
+                " ventricular compact myocardium morphogenesis",
+                " epidermis development",
+                " peptide cross-linking",
+                " keratinocyte differentiation"
+            ],
+            "summary": "This gene encodes a protein that anchors intermediate filaments to desmosomal plaques and forms an obligate component of functional desmosomes. Mutations in this gene are the cause of several cardiomyopathies and keratodermas, including skin fragility-woolly hair syndrome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2016]",
+            "variants_inf": {
+                "rs142803672": {
+                    "freqs": [
+                        "C=0.000203(51/251280,GnomAD_exome)",
+                        "C=0.000550(69/125568,TOPMED)",
+                        "C=0.000215(26/120836,ExAC)",
+                        "C=0.00006(5/78700,PAGE_STUDY)",
+                        "C=0.00041(13/31408,GnomAD)",
+                        "C=0.00100(13/13006,GO-ESP)",
+                        "C=0.00027(3/11176,ALFAProject)",
+                        "C=0.0002(1/5008,1000G)",
+                        "C=0.0002(1/4480,Estonian)",
+                        "C=0.0003(1/3854,ALSPAC)",
+                        "C=0.0013(5/3708,TWINSUK)"
+                    ]
+                },
+                "rs1561703331": {
+                    "freqs": []
+                }
+            }
+        },
+        "FBN1": {
+            "pathways": [
+                " skeletal system development",
+                " metanephros development",
+                " kidney development",
+                " signal transduction",
+                " heart development"
+            ],
+            "summary": "This gene encodes a member of the fibrillin family of proteins. The encoded preproprotein is proteolytically processed to generate two proteins including the extracellular matrix component fibrillin-1 and the protein hormone asprosin. Fibrillin-1 is an extracellular matrix glycoprotein that serves as a structural component of calcium-binding microfibrils. These microfibrils provide force-bearing structural support in elastic and nonelastic connective tissue throughout the body. Asprosin, secreted by white adipose tissue, has been shown to regulate glucose homeostasis. Mutations in this gene are associated with Marfan syndrome and the related MASS phenotype, as well as ectopia lentis syndrome, Weill-Marchesani syndrome, Shprintzen-Goldberg syndrome and neonatal progeroid syndrome. [provided by RefSeq, Apr 2016]",
+            "variants_inf": {
+                "rs148831709": {
+                    "freqs": [
+                        "T=0.000012(3/251214,GnomAD_exome)",
+                        "T=0.000024(3/125568,TOPMED)",
+                        "T=0.000008(1/121188,ExAC)",
+                        "T=0.00008(1/12988,GO-ESP)",
+                        "T=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs201273753": {
+                    "freqs": [
+                        "C=0.000203(51/251432,GnomAD_exome)",
+                        "C=0.000342(43/125568,TOPMED)",
+                        "C=0.000181(22/121398,ExAC)",
+                        "C=0.00079(62/78702,PAGE_STUDY)",
+                        "C=0.00019(6/31400,GnomAD)",
+                        "C=0.00031(4/12988,GO-ESP)",
+                        "C=0.00018(2/11176,ALFAProject)",
+                        "C=0.0013(5/3854,ALSPAC)",
+                        "C=0.0008(3/3708,TWINSUK)",
+                        "C=0.001(1/998,GoNL)",
+                        "C=0.002(1/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "FKRP": {
+            "pathways": [
+                " protein glycosylation",
+                " glycoprotein biosynthetic process",
+                " protein processing",
+                " protein O-linked mannosylation"
+            ],
+            "summary": "This gene encodes a protein which is targeted to the medial Golgi apparatus and is necessary for posttranslational modification of dystroglycan. Mutations in this gene have been associated with congenital muscular dystrophy, cognitive disability, and cerebellar cysts. Several alternatively spliced transcript variants of this gene have been described, but the full-length nature of some of these variants has not been determined. [provided by RefSeq, Oct 2008]",
+            "variants_inf": {
+                "rs28937900": {
+                    "freqs": [
+                        "A=0.001203(151/125568,TOPMED)",
+                        "A=0.001028(125/121630,GnomAD_exome)",
+                        "A=0.00086(11/12846,ALFAProject)",
+                        "A=0.0006(3/5008,1000G)",
+                        "A=0.0020(9/4480,Estonian)",
+                        "A=0.0040(13/3282,ExAC)",
+                        "A=0.003(2/600,NorthernSweden)"
+                    ]
+                }
+            }
+        },
+        "GAA": {
+            "pathways": [
+                " maltose metabolic process",
+                " regulation of the force of heart contraction",
+                " diaphragm contraction",
+                " heart morphogenesis",
+                " carbohydrate metabolic process"
+            ],
+            "summary": "This gene encodes lysosomal alpha-glucosidase, which is essential for the degradation of glycogen to glucose in lysosomes. The encoded preproprotein is proteolytically processed to generate multiple intermediate forms and the mature form of the enzyme. Defects in this gene are the cause of glycogen storage disease II, also known as Pompe's disease, which is an autosomal recessive disorder with a broad clinical spectrum. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2016]",
+            "variants_inf": {
+                "rs121907943": {
+                    "freqs": [
+                        "T=0.000175(43/246224,GnomAD_exome)",
+                        "T=0.000510(64/125568,TOPMED)",
+                        "T=0.000215(25/116512,ExAC)",
+                        "T=0.00098(77/78180,PAGE_STUDY)",
+                        "T=0.00004(3/77536,ALFAProject)",
+                        "T=0.00048(15/31342,GnomAD)",
+                        "T=0.0010(5/5008,1000G)"
+                    ]
+                },
+                "rs141533320": {
+                    "freqs": [
+                        "A=0.000032(8/248242,GnomAD_exome)",
+                        "A=0.000024(3/125568,TOPMED)",
+                        "A=0.000036(4/111856,ExAC)",
+                        "A=0.00015(2/13000,GO-ESP)",
+                        "A=0.0000(0/3870,ALFAProject)"
+                    ]
+                },
+                "rs142967546": {
+                    "freqs": [
+                        "T=0.000206(51/247128,GnomAD_exome)",
+                        "T=0.000287(36/125568,TOPMED)",
+                        "T=0.000209(25/119472,ExAC)",
+                        "T=0.00034(26/75456,ALFAProject)",
+                        "T=0.00020(6/30738,GnomAD)",
+                        "T=0.00038(5/13006,GO-ESP)",
+                        "T=0.0004(2/5008,1000G)",
+                        "T=0.0002(1/4478,Estonian)",
+                        "T=0.002(1/600,NorthernSweden)"
+                    ]
+                },
+                "rs1555602832": {
+                    "freqs": []
+                },
+                "rs1800312": {
+                    "freqs": [
+                        "C=0.000390(49/125568,TOPMED)",
+                        "C=0.00023(18/78700,PAGE_STUDY)",
+                        "C=0.00031(4/13006,GO-ESP)",
+                        "C=0.00018(2/11174,ALFAProject)",
+                        "C=0.0004(2/5008,1000G)",
+                        "C=0.0004(2/4480,Estonian)",
+                        "C=0.0003(1/3854,ALSPAC)",
+                        "C=0.0008(3/3708,TWINSUK)",
+                        "C=0.0007(2/2918,KOREAN)",
+                        "C=0.0005(1/1832,Korea1K)",
+                        "C=0.001(1/998,GoNL)",
+                        "C=0.005(3/600,NorthernSweden)",
+                        "C=0.002(1/534,MGP)"
+                    ]
+                },
+                "rs386834235": {
+                    "freqs": [
+                        "delT=0.000096(23/239740,GnomAD_exome)",
+                        "delT=0.000159(20/125568,TOPMED)",
+                        "delT=0.000070(8/113628,ExAC)",
+                        "delT=0.00013(4/31380,GnomAD)",
+                        "delT=0.00016(2/12176,GO-ESP)",
+                        "delT=0.00027(3/11176,ALFAProject)"
+                    ]
+                },
+                "rs776948121": {
+                    "freqs": [
+                        "G=0.000012(3/242552,GnomAD_exome)",
+                        "G=0.000008(1/125568,TOPMED)",
+                        "G=0.00001(1/88008,ExAC)",
+                        "G=0.00003(1/31364,GnomAD)",
+                        "G=0.00018(2/11176,ALFAProject)"
+                    ]
+                },
+                "rs781088002": {
+                    "freqs": [
+                        "delC=0.000029(7/244672,GnomAD_exome)",
+                        "delC=0.000032(4/125568,TOPMED)",
+                        "delC=0.000037(4/106676,ExAC)",
+                        "delC=0.00006(2/31362,GnomAD)",
+                        "delC=0.00009(1/11176,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "GCKR": {
+            "pathways": [
+                " cellular glucose homeostasis",
+                " carbohydrate metabolic process",
+                " regulation of glycolytic process",
+                " protein import into nucleus",
+                " response to fructose"
+            ],
+            "summary": "This gene encodes a protein belonging to the GCKR subfamily of the SIS (Sugar ISomerase) family of proteins. The gene product is a regulatory protein that inhibits glucokinase in liver and pancreatic islet cells by binding non-covalently to form an inactive complex with the enzyme. This gene is considered a susceptibility gene candidate for a form of maturity-onset diabetes of the young (MODY). [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs146175795": {
+                    "freqs": [
+                        "A=0.002681(674/251402,GnomAD_exome)",
+                        "A=0.002039(256/125568,TOPMED)",
+                        "A=0.002283(277/121334,ExAC)",
+                        "A=0.00017(15/88596,ALFAProject)",
+                        "A=0.00651(512/78700,PAGE_STUDY)",
+                        "A=0.00096(30/31374,GnomAD)",
+                        "A=0.00008(1/13006,GO-ESP)",
+                        "A=0.0044(22/5008,1000G)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0000(0/3708,TWINSUK)",
+                        "A=0.0123(36/2922,KOREAN)",
+                        "A=0.0136(25/1832,Korea1K)",
+                        "G=0.5(4/8,SGDP_PRJ)",
+                        "A=0.5(4/8,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "GLA": {
+            "pathways": [
+                " carbohydrate metabolic process",
+                " glycosphingolipid metabolic process",
+                " metabolic process",
+                " oligosaccharide metabolic process",
+                " glycoside catabolic process"
+            ],
+            "summary": "This gene encodes a homodimeric glycoprotein that hydrolyses the terminal alpha-galactosyl moieties from glycolipids and glycoproteins. This enzyme predominantly hydrolyzes ceramide trihexoside, and it can catalyze the hydrolysis of melibiose into galactose and glucose. A variety of mutations in this gene affect the synthesis, processing, and stability of this enzyme, which causes Fabry disease, a rare lysosomal storage disorder that results from a failure to catabolize alpha-D-galactosyl glycolipid moieties. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs104894845": {
+                    "freqs": [
+                        "T=0.000545(100/183467,GnomAD_exome)",
+                        "T=0.000486(61/125568,TOPMED)",
+                        "T=0.00095(84/88768,ALFAProject)",
+                        "T=0.00077(68/87759,ExAC)",
+                        "T=0.00018(4/21966,GnomAD)",
+                        "T=0.0011(4/3708,TWINSUK)",
+                        "A=0.0007(2/2922,KOREAN)",
+                        "T=0.0003(1/2889,ALSPAC)",
+                        "C=0.0(0/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "GPIHBP1": {
+            "pathways": [
+                " retinoid metabolic process",
+                " intracellular protein transport",
+                " protein import",
+                " chylomicron remodeling",
+                " protein localization to cell surface"
+            ],
+            "summary": "This gene encodes a capillary endothelial cell protein that facilitates the lipolytic processing of triglyceride-rich lipoproteins. The encoded protein is a glycosylphosphatidylinositol-anchored protein that is a member of the lymphocyte antigen 6 (Ly6) family. This protein plays a major role in transporting lipoprotein lipase (LPL) from the subendothelial spaces to the capillary lumen. Mutations in this gene are the cause of hyperlipoproteinemia, type 1D. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Sep 2014]",
+            "variants_inf": {
+                "rs145844329": {
+                    "freqs": [
+                        "C=0.002110(265/125568,TOPMED)",
+                        "C=0.00363(286/78696,PAGE_STUDY)",
+                        "C=0.00208(27/12970,GO-ESP)",
+                        "C=0.00081(9/11172,ALFAProject)",
+                        "C=0.0022(11/5008,1000G)",
+                        "C=0.0008(3/3854,ALSPAC)",
+                        "C=0.0000(0/3708,TWINSUK)",
+                        "C=0.005(1/216,Qatari)"
+                    ]
+                }
+            }
+        },
+        "HADHA": {
+            "pathways": [
+                " lipid metabolic process",
+                " fatty acid metabolic process",
+                " fatty acid beta-oxidation",
+                " metabolic process",
+                " response to insulin"
+            ],
+            "summary": "This gene encodes the alpha subunit of the mitochondrial trifunctional protein, which catalyzes the last three steps of mitochondrial beta-oxidation of long chain fatty acids. The mitochondrial membrane-bound heterocomplex is composed of four alpha and four beta subunits, with the alpha subunit catalyzing the 3-hydroxyacyl-CoA dehydrogenase and enoyl-CoA hydratase activities. Mutations in this gene result in trifunctional protein deficiency or LCHAD deficiency. The genes of the alpha and beta subunits of the mitochondrial trifunctional protein are located adjacent to each other in the human genome in a head-to-head orientation. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs137852769": {
+                    "freqs": [
+                        "G=0.001229(309/251462,GnomAD_exome)",
+                        "G=0.000796(100/125568,TOPMED)",
+                        "G=0.001203(146/121410,ExAC)",
+                        "G=0.00036(28/78700,PAGE_STUDY)",
+                        "G=0.00182(57/31368,GnomAD)",
+                        "G=0.00072(8/11176,ALFAProject)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0067(30/4480,Estonian)",
+                        "G=0.0018(7/3854,ALSPAC)",
+                        "G=0.0011(4/3708,TWINSUK)",
+                        "G=0.002(2/998,GoNL)",
+                        "G=0.007(2/304,FINRISK)"
+                    ]
+                }
+            }
+        },
+        "HFE": {
+            "pathways": [
+                " positive regulation of T cell mediated cytotoxicity",
+                "NOT",
+                " antigen processing and presentation of endogenous peptide antigen via MHC class Ib",
+                " negative regulation of T cell antigen processing and presentation",
+                " negative regulation of T cell cytokine production"
+            ],
+            "summary": "The protein encoded by this gene is a membrane protein that is similar to MHC class I-type proteins and associates with beta2-microglobulin (beta2M). It is thought that this protein functions to regulate iron absorption by regulating the interaction of the transferrin receptor with transferrin. The iron storage disorder, hereditary haemochromatosis, is a recessive genetic disorder that results from defects in this gene. At least nine alternatively spliced variants have been described for this gene. Additional variants have been found but their full-length nature has not been determined. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs146519482": {
+                    "freqs": [
+                        "C=0.000446(112/251276,GnomAD_exome)",
+                        "C=0.000271(34/125568,TOPMED)",
+                        "C=0.000388(47/121012,ExAC)",
+                        "C=0.00015(12/78702,PAGE_STUDY)",
+                        "C=0.00102(32/31394,GnomAD)",
+                        "C=0.00031(4/13006,GO-ESP)",
+                        "C=0.00072(8/11176,ALFAProject)",
+                        "C=0.0002(1/5008,1000G)",
+                        "C=0.0029(13/4480,Estonian)",
+                        "C=0.0010(4/3854,ALSPAC)",
+                        "C=0.0003(1/3708,TWINSUK)"
+                    ]
+                },
+                "rs149342416": {
+                    "freqs": [
+                        "C=0.000690(173/250788,GnomAD_exome)",
+                        "C=0.000788(99/125568,TOPMED)",
+                        "C=0.000678(81/119478,ExAC)",
+                        "C=0.00038(30/78644,PAGE_STUDY)",
+                        "C=0.00064(20/31392,GnomAD)",
+                        "C=0.00054(7/13004,GO-ESP)",
+                        "C=0.00098(11/11176,ALFAProject)",
+                        "C=0.0010(4/3854,ALSPAC)",
+                        "C=0.0011(4/3708,TWINSUK)",
+                        "C=0.001(1/998,GoNL)"
+                    ]
+                },
+                "rs1799945": {
+                    "freqs": [
+                        "G=0.109240(27472/251484,GnomAD_exome)",
+                        "G=0.101156(12702/125568,TOPMED)",
+                        "G=0.106599(12942/121408,ExAC)",
+                        "G=0.06797(5349/78702,PAGE_STUDY)",
+                        "G=0.09949(3120/31360,GnomAD)",
+                        "G=0.13586(1977/14552,ALFAProject)",
+                        "G=0.0731(366/5008,1000G)",
+                        "G=0.1373(615/4480,Estonian)",
+                        "G=0.1365(526/3854,ALSPAC)",
+                        "G=0.1429(530/3708,TWINSUK)",
+                        "G=0.0488(143/2930,KOREAN)",
+                        "G=0.0448(82/1832,Korea1K)",
+                        "G=0.135(135/998,GoNL)",
+                        "G=0.033(20/614,Vietnamese)",
+                        "G=0.138(83/600,NorthernSweden)",
+                        "G=0.199(106/534,MGP)",
+                        "G=0.102(31/304,FINRISK)",
+                        "G=0.076(23/302,HapMap)",
+                        "G=0.130(28/216,Qatari)",
+                        "C=0.49(43/88,SGDP_PRJ)",
+                        "G=0.15(6/40,GENOME_DK)",
+                        "C=0.50(7/14,Siberian)",
+                        "G=0.50(7/14,Siberian)"
+                    ]
+                },
+                "rs1800562": {
+                    "freqs": [
+                        "A=0.033212(8344/251236,GnomAD_exome)",
+                        "A=0.053369(7701/144298,ALFAProject)",
+                        "A=0.038258(4804/125568,TOPMED)",
+                        "A=0.032432(3937/121394,ExAC)",
+                        "A=0.01389(1093/78702,PAGE_STUDY)",
+                        "A=0.03825(1200/31372,GnomAD)",
+                        "A=0.0126(63/5008,1000G)",
+                        "A=0.0426(191/4480,Estonian)",
+                        "A=0.0794(306/3854,ALSPAC)",
+                        "A=0.0690(256/3708,TWINSUK)",
+                        "A=0.0072(15/2084,HGDP_Stanford)",
+                        "A=0.0189(23/1214,HapMap)",
+                        "A=0.0201(22/1094,Daghestan)",
+                        "A=0.054(54/998,GoNL)",
+                        "A=0.018(11/626,Chileans)",
+                        "A=0.075(45/600,NorthernSweden)",
+                        "A=0.032(17/534,MGP)",
+                        "A=0.033(10/304,FINRISK)",
+                        "A=0.005(1/216,Qatari)",
+                        "A=0.03(1/40,GENOME_DK)",
+                        "G=0.50(6/12,SGDP_PRJ)",
+                        "A=0.50(6/12,SGDP_PRJ)",
+                        "G=0.5(1/2,Siberian)",
+                        "A=0.5(1/2,Siberian)"
+                    ]
+                },
+                "rs1800730": {
+                    "freqs": [
+                        "T=0.010239(2575/251490,GnomAD_exome)",
+                        "T=0.009573(1202/125568,TOPMED)",
+                        "T=0.010090(1225/121410,ExAC)",
+                        "T=0.00410(323/78702,PAGE_STUDY)",
+                        "T=0.01007(316/31388,GnomAD)",
+                        "T=0.01182(146/12352,ALFAProject)",
+                        "T=0.0040(20/5008,1000G)",
+                        "T=0.0100(45/4480,Estonian)",
+                        "T=0.0138(53/3854,ALSPAC)",
+                        "T=0.0135(50/3708,TWINSUK)",
+                        "T=0.0007(2/2922,KOREAN)",
+                        "T=0.017(17/998,GoNL)",
+                        "T=0.017(10/600,NorthernSweden)",
+                        "T=0.004(2/534,MGP)",
+                        "T=0.030(9/304,FINRISK)",
+                        "T=0.07(3/40,GENOME_DK)",
+                        "A=0.5(2/4,SGDP_PRJ)",
+                        "T=0.5(2/4,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "KCNA5": {
+            "pathways": [
+                " response to hypoxia",
+                " ion transport",
+                " potassium ion transport",
+                " Notch signaling pathway",
+                " response to mechanical stimulus"
+            ],
+            "summary": "Potassium channels represent the most complex class of voltage-gated ino channels from both functional and structural standpoints. Their diverse functions include regulating neurotransmitter release, heart rate, insulin secretion, neuronal excitability, epithelial electrolyte transport, smooth muscle contraction, and cell volume. Four sequence-related potassium channel genes - shaker, shaw, shab, and shal - have been identified in Drosophila, and each has been shown to have human homolog(s). This gene encodes a member of the potassium channel, voltage-gated, shaker-related subfamily. This member contains six membrane-spanning domains with a shaker-type repeat in the fourth segment. It belongs to the delayed rectifier class, the function of which could restore the resting membrane potential of beta cells after depolarization and thereby contribute to the regulation of insulin secretion. This gene is intronless, and the gene is clustered with genes KCNA1 and KCNA6 on chromosome 12. Defects in this gene are a cause of familial atrial fibrillation type 7 (ATFB7). [provided by RefSeq, May 2012]",
+            "variants_inf": {
+                "rs76708779": {
+                    "freqs": [
+                        "A=0.001313(330/251342,GnomAD_exome)",
+                        "A=0.004269(536/125568,TOPMED)",
+                        "A=0.001509(183/121250,ExAC)",
+                        "A=0.00398(125/31386,GnomAD)",
+                        "A=0.00531(69/13006,GO-ESP)",
+                        "A=0.00072(8/11176,ALFAProject)",
+                        "A=0.0038(19/5008,1000G)",
+                        "A=0.005(1/216,Qatari)"
+                    ]
+                }
+            }
+        },
+        "KCNE3": {
+            "pathways": [
+                " ion transport",
+                " potassium ion transport",
+                " regulation of ion transmembrane transport",
+                " regulation of potassium ion transport",
+                " regulation of ventricular cardiac muscle cell membrane repolarization"
+            ],
+            "summary": "Voltage-gated potassium (Kv) channels represent the most complex class of voltage-gated ion channels from both functional and structural standpoints. Their diverse functions include regulating neurotransmitter release, heart rate, insulin secretion, neuronal excitability, epithelial electrolyte transport, smooth muscle contraction, and cell volume. This gene encodes a member of the potassium channel, voltage-gated, isk-related subfamily. This member is a type I membrane protein, and a beta subunit that assembles with a potassium channel alpha-subunit to modulate the gating kinetics and enhance stability of the multimeric complex. This gene is prominently expressed in the kidney. A missense mutation in this gene is associated with hypokalemic periodic paralysis. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs200856070": {
+                    "freqs": [
+                        "C=0.000139(35/251370,GnomAD_exome)",
+                        "C=0.000127(16/125568,TOPMED)",
+                        "C=0.000074(9/121138,ExAC)",
+                        "C=0.00025(20/78698,PAGE_STUDY)",
+                        "C=0.00006(2/31376,GnomAD)",
+                        "C=0.0000(0/8766,ALFAProject)",
+                        "C=0.0006(3/5008,1000G)",
+                        "C=0.0031(9/2922,KOREAN)",
+                        "C=0.0027(5/1832,Korea1K)",
+                        "T=0.5(1/2,SGDP_PRJ)",
+                        "C=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "KCNH2": {
+            "pathways": [
+                " regulation of heart rate by hormone",
+                " ion transport",
+                " potassium ion transport",
+                " regulation of ion transmembrane transport",
+                " cellular response to drug"
+            ],
+            "summary": "This gene encodes a voltage-activated potassium channel belonging to the eag family. It shares sequence similarity with the Drosophila ether-a-go-go (eag) gene. Mutations in this gene can cause long QT syndrome type 2 (LQT2). Transcript variants encoding distinct isoforms have been identified. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs77331749": {
+                    "freqs": [
+                        "A=0.000398(50/125568,TOPMED)",
+                        "A=0.000400(48/120030,GnomAD_exome)",
+                        "A=0.00080(25/31276,GnomAD)",
+                        "A=0.00045(5/11172,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "KCNQ1": {
+            "pathways": [
+                " regulation of gene expression by genetic imprinting",
+                " ion transport",
+                " potassium ion transport",
+                " sensory perception of sound",
+                " regulation of heart contraction"
+            ],
+            "summary": "This gene encodes a voltage-gated potassium channel required for repolarization phase of the cardiac action potential. This protein can form heteromultimers with two other potassium channel proteins, KCNE1 and KCNE3. Mutations in this gene are associated with hereditary long QT syndrome 1 (also known as Romano-Ward syndrome), Jervell and Lange-Nielsen syndrome, and familial atrial fibrillation. This gene exhibits tissue-specific imprinting, with preferential expression from the maternal allele in some tissues, and biallelic expression in others. This gene is located in a region of chromosome 11 amongst other imprinted genes that are associated with Beckwith-Wiedemann syndrome (BWS), and itself has been shown to be disrupted by chromosomal rearrangements in patients with BWS. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Aug 2011]",
+            "variants_inf": {
+                "rs140452381": {
+                    "freqs": [
+                        "T=0.000080(20/249744,GnomAD_exome)",
+                        "T=0.000215(27/125568,TOPMED)",
+                        "T=0.000094(11/117500,ExAC)",
+                        "T=0.00024(19/78698,PAGE_STUDY)",
+                        "T=0.00016(5/31382,GnomAD)",
+                        "T=0.00015(2/13002,GO-ESP)",
+                        "T=0.0000(0/8760,ALFAProject)",
+                        "T=0.0004(2/5008,1000G)"
+                    ]
+                }
+            }
+        },
+        "LAMA2": {
+            "pathways": [
+                " cell adhesion",
+                " axon guidance",
+                " muscle organ development",
+                " animal organ morphogenesis",
+                " tissue development"
+            ],
+            "summary": "Laminin, an extracellular protein, is a major component of the basement membrane. It is thought to mediate the attachment, migration, and organization of cells into tissues during embryonic development by interacting with other extracellular matrix components. It is composed of three subunits, alpha, beta, and gamma, which are bound to each other by disulfide bonds into a cross-shaped molecule. This gene encodes the alpha 2 chain, which constitutes one of the subunits of laminin 2 (merosin) and laminin 4 (s-merosin). Mutations in this gene have been identified as the cause of congenital merosin-deficient muscular dystrophy. Two transcript variants encoding different proteins have been found for this gene. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs121913572": {
+                    "freqs": [
+                        "T=0.000052(13/251304,GnomAD_exome)",
+                        "T=0.000024(3/125568,TOPMED)",
+                        "T=0.000066(8/121318,ExAC)",
+                        "T=0.00003(2/78692,PAGE_STUDY)",
+                        "T=0.00006(2/31394,GnomAD)",
+                        "T=0.0004(2/4480,Estonian)",
+                        "T=0.0000(0/2370,ALFAProject)"
+                    ]
+                },
+                "rs1431555553": {
+                    "freqs": []
+                },
+                "rs398123372": {
+                    "freqs": [
+                        "delT=0.000024(6/251474,GnomAD_exome)",
+                        "delT=0.000048(6/125568,TOPMED)",
+                        "delT=0.000016(2/121406,ExAC)",
+                        "delT=0.00006(2/31408,GnomAD)",
+                        "delT=0.00064(8/12518,GO-ESP)",
+                        "delT=0.00009(1/11175,ALFAProject)"
+                    ]
+                },
+                "rs747349942": {
+                    "freqs": [
+                        "T=0.000028(7/251122,GnomAD_exome)",
+                        "T=0.000048(6/125568,TOPMED)",
+                        "T=0.000008(1/121350,ExAC)",
+                        "T=0.00009(1/11176,ALFAProject)"
+                    ]
+                },
+                "rs758775001": {
+                    "freqs": [
+                        "T=0.000024(6/250502,GnomAD_exome)",
+                        "T=0.000008(1/125568,TOPMED)",
+                        "T=0.000033(4/120332,ExAC)",
+                        "T=0.0005(1/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "LDB3": {
+            "pathways": [
+                " heart development",
+                " actin cytoskeleton organization",
+                " sarcomere organization",
+                " muscle structure development"
+            ],
+            "summary": "This gene encodes a PDZ domain-containing protein. PDZ motifs are modular protein-protein interaction domains consisting of 80-120 amino acid residues. PDZ domain-containing proteins interact with each other in cytoskeletal assembly or with other proteins involved in targeting and clustering of membrane proteins. The protein encoded by this gene interacts with alpha-actinin-2 through its N-terminal PDZ domain and with protein kinase C via its C-terminal LIM domains. The LIM domain is a cysteine-rich motif defined by 50-60 amino acids containing two zinc-binding modules. This protein also interacts with all three members of the myozenin family. Mutations in this gene have been associated with myofibrillar myopathy and dilated cardiomyopathy. Alternatively spliced transcript variants encoding different isoforms have been identified; all isoforms have N-terminal PDZ domains while only longer isoforms (1, 2 and 5) have C-terminal LIM domains. [provided by RefSeq, Jan 2010]",
+            "variants_inf": {
+                "rs145983824": {
+                    "freqs": [
+                        "T=0.000076(19/251488,GnomAD_exome)",
+                        "T=0.000104(13/125568,TOPMED)",
+                        "T=0.000091(11/121404,ExAC)",
+                        "T=0.00009(9/94990,ALFAProject)",
+                        "T=0.00006(5/78702,PAGE_STUDY)",
+                        "T=0.00006(2/31400,GnomAD)",
+                        "T=0.00023(3/13006,GO-ESP)",
+                        "C=0.5(1/2,SGDP_PRJ)",
+                        "T=0.5(1/2,SGDP_PRJ)"
+                    ]
+                },
+                "rs71473272": {
+                    "freqs": [
+                        "C=0.005026(1253/249284,GnomAD_exome)",
+                        "C=0.003257(409/125568,TOPMED)",
+                        "C=0.005485(661/120504,ExAC)",
+                        "C=0.00268(84/31340,GnomAD)",
+                        "C=0.00320(41/12818,GO-ESP)",
+                        "C=0.00814(91/11176,ALFAProject)",
+                        "C=0.0034(17/5008,1000G)",
+                        "C=0.0007(3/4480,Estonian)",
+                        "C=0.0042(16/3854,ALSPAC)",
+                        "C=0.0030(11/3708,TWINSUK)",
+                        "C=0.009(9/998,GoNL)",
+                        "C=0.002(1/534,MGP)",
+                        "C=0.005(1/216,Qatari)",
+                        "T=0.5(2/4,SGDP_PRJ)",
+                        "C=0.5(2/4,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "LDLR": {
+            "pathways": [
+                " lipid metabolic process",
+                " lipid transport",
+                " endocytosis",
+                " receptor-mediated endocytosis",
+                " phagocytosis"
+            ],
+            "summary": "The low density lipoprotein receptor (LDLR) gene family consists of cell surface proteins involved in receptor-mediated endocytosis of specific ligands. Low density lipoprotein (LDL) is normally bound at the cell membrane and taken into the cell ending up in lysosomes where the protein is degraded and the cholesterol is made available for repression of microsomal enzyme 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, the rate-limiting step in cholesterol synthesis. At the same time, a reciprocal stimulation of cholesterol ester synthesis takes place. Mutations in this gene cause the autosomal dominant disorder, familial hypercholesterolemia. Alternate splicing results in multiple transcript variants.[provided by RefSeq, Sep 2010]",
+            "variants_inf": {
+                "rs730882080": {
+                    "freqs": [
+                        "T=0.000012(3/250932,GnomAD_exome)",
+                        "T=0.000017(2/119950,ExAC)",
+                        "T=0.0001(1/8988,ALFAProject)"
+                    ]
+                },
+                "rs777926251": {
+                    "freqs": [
+                        "C=0.000163(41/251310,GnomAD_exome)",
+                        "C=0.000151(19/125568,TOPMED)",
+                        "C=0.000100(12/120588,ExAC)",
+                        "C=0.00006(2/31400,GnomAD)",
+                        "C=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYBPC3": {
+            "pathways": [
+                " heart morphogenesis",
+                " regulation of striated muscle contraction",
+                " cell adhesion",
+                " muscle filament sliding",
+                " positive regulation of ATPase activity"
+            ],
+            "summary": "MYBPC3 encodes the cardiac isoform of myosin-binding protein C. Myosin-binding protein C is a myosin-associated protein found in the cross-bridge-bearing zone (C region) of A bands in striated muscle. MYBPC3, the cardiac isoform, is expressed exclussively in heart muscle. Regulatory phosphorylation of the cardiac isoform in vivo by cAMP-dependent protein kinase (PKA) upon adrenergic stimulation may be linked to modulation of cardiac contraction. Mutations in MYBPC3 are one cause of familial hypertrophic cardiomyopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs193922377": {
+                    "freqs": [
+                        "T=0.000138(34/246694,GnomAD_exome)",
+                        "T=0.000183(23/125568,TOPMED)",
+                        "T=0.000162(18/110970,ExAC)",
+                        "T=0.00031(29/94986,ALFAProject)",
+                        "T=0.00024(19/78698,PAGE_STUDY)",
+                        "T=0.00022(7/31402,GnomAD)",
+                        "T=0.00039(5/12762,GO-ESP)",
+                        "T=0.0002(1/5008,1000G)",
+                        "T=0.005(1/216,Qatari)"
+                    ]
+                },
+                "rs200119454": {
+                    "freqs": [
+                        "T=0.000271(34/125568,TOPMED)",
+                        "T=0.00045(43/94804,ALFAProject)",
+                        "T=0.00022(17/78696,PAGE_STUDY)",
+                        "T=0.00022(7/31388,GnomAD)",
+                        "T=0.00039(5/12816,GO-ESP)",
+                        "T=0.0002(1/5008,1000G)",
+                        "T=0.0008(3/3854,ALSPAC)",
+                        "T=0.0005(2/3708,TWINSUK)",
+                        "G=0.0003(1/2922,KOREAN)",
+                        "T=0.003(3/998,GoNL)",
+                        "T=0.002(1/534,MGP)"
+                    ]
+                },
+                "rs201278114": {
+                    "freqs": [
+                        "G=0.000589(74/125568,TOPMED)",
+                        "G=0.000301(36/119710,ExAC)",
+                        "G=0.00048(15/31338,GnomAD)",
+                        "G=0.00082(10/12252,GO-ESP)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0007(3/4480,Estonian)",
+                        "G=0.0008(3/3854,ALSPAC)",
+                        "G=0.0003(1/3708,TWINSUK)",
+                        "G=0.0018(4/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYH11": {
+            "pathways": [
+                " muscle contraction",
+                " smooth muscle contraction",
+                " skeletal muscle myosin thick filament assembly",
+                " elastic fiber assembly",
+                " cardiac muscle fiber development"
+            ],
+            "summary": "The protein encoded by this gene is a smooth muscle myosin belonging to the myosin heavy chain family. The gene product is a subunit of a hexameric protein that consists of two heavy chain subunits and two pairs of non-identical light chain subunits. It functions as a major contractile protein, converting chemical energy into mechanical energy through the hydrolysis of ATP. The gene encoding a human ortholog of rat NUDE1 is transcribed from the reverse strand of this gene, and its 3' end overlaps with that of the latter. The pericentric inversion of chromosome 16 [inv(16)(p13q22)] produces a chimeric transcript that encodes a protein consisting of the first 165 residues from the N terminus of core-binding factor beta in a fusion with the C-terminal portion of the smooth muscle myosin heavy chain. This chromosomal rearrangement is associated with acute myeloid leukemia of the M4Eo subtype. Alternative splicing generates isoforms that are differentially expressed, with ratios changing during muscle cell maturation. Alternatively spliced transcript variants encoding different isoforms have been identified. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs34321232": {
+                    "freqs": [
+                        "G=0.000099(25/251470,GnomAD_exome)",
+                        "G=0.000167(21/125568,TOPMED)",
+                        "G=0.000082(10/121268,ExAC)",
+                        "G=0.00045(39/85986,ALFAProject)",
+                        "G=0.00010(8/78702,PAGE_STUDY)",
+                        "G=0.00013(4/31376,GnomAD)",
+                        "G=0.00023(3/12994,GO-ESP)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0002(1/4478,Estonian)",
+                        "G=0.0003(1/3854,ALSPAC)",
+                        "G=0.0000(0/3708,TWINSUK)"
+                    ]
+                },
+                "rs375998236": {
+                    "freqs": [
+                        "T=0.000119(30/251458,GnomAD_exome)",
+                        "T=0.000140(17/121404,ExAC)",
+                        "T=0.00013(4/31408,GnomAD)",
+                        "T=0.00008(1/12994,GO-ESP)",
+                        "T=0.0001(1/8988,ALFAProject)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0008(3/3708,TWINSUK)",
+                        "T=0.002(1/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "MYH6": {
+            "pathways": [
+                " in utero embryonic development",
+                " regulation of the force of heart contraction",
+                " regulation of heart rate",
+                " protein dephosphorylation",
+                " muscle contraction"
+            ],
+            "summary": "Cardiac muscle myosin is a hexamer consisting of two heavy chain subunits, two light chain subunits, and two regulatory subunits. This gene encodes the alpha heavy chain subunit of cardiac myosin. The gene is located approximately 4kb downstream of the gene encoding the beta heavy chain subunit of cardiac myosin. Mutations in this gene cause familial hypertrophic cardiomyopathy and atrial septal defect 3. [provided by RefSeq, Feb 2017]",
+            "variants_inf": {
+                "rs140596256": {
+                    "freqs": [
+                        "T=0.000414(52/125568,TOPMED)",
+                        "T=0.00049(43/88574,ALFAProject)",
+                        "T=0.00022(7/31382,GnomAD)",
+                        "T=0.00062(8/13006,GO-ESP)",
+                        "T=0.0006(3/5008,1000G)",
+                        "T=0.0005(2/3854,ALSPAC)",
+                        "T=0.0011(4/3708,TWINSUK)",
+                        "T=0.001(1/998,GoNL)"
+                    ]
+                },
+                "rs143978652": {
+                    "freqs": [
+                        "A=0.001067(134/125568,TOPMED)",
+                        "A=0.000980(119/121412,ExAC)",
+                        "A=0.00074(70/94870,ALFAProject)",
+                        "A=0.00107(84/78690,PAGE_STUDY)",
+                        "A=0.00127(40/31396,GnomAD)",
+                        "A=0.00092(12/13006,GO-ESP)",
+                        "A=0.0006(3/5008,1000G)",
+                        "A=0.0031(14/4480,Estonian)",
+                        "A=0.0021(8/3854,ALSPAC)",
+                        "A=0.0013(5/3708,TWINSUK)",
+                        "A=0.002(2/998,GoNL)",
+                        "A=0.006(3/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "MYH7": {
+            "pathways": [
+                " regulation of the force of heart contraction",
+                " regulation of heart rate",
+                " skeletal muscle contraction",
+                " muscle contraction",
+                " striated muscle contraction"
+            ],
+            "summary": "Muscle myosin is a hexameric protein containing 2 heavy chain subunits, 2 alkali light chain subunits, and 2 regulatory light chain subunits. This gene encodes the beta (or slow) heavy chain subunit of cardiac myosin. It is expressed predominantly in normal human ventricle. It is also expressed in skeletal muscle tissues rich in slow-twitch type I muscle fibers. Changes in the relative abundance of this protein and the alpha (or fast) heavy subunit of cardiac myosin correlate with the contractile velocity of cardiac muscle. Its expression is also altered during thyroid hormone depletion and hemodynamic overloading. Mutations in this gene are associated with familial hypertrophic cardiomyopathy, myosin storage myopathy, dilated cardiomyopathy, and Laing early-onset distal myopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs141122361": {
+                    "freqs": [
+                        "T=0.000060(15/251428,GnomAD_exome)",
+                        "T=0.000390(49/125568,TOPMED)",
+                        "T=0.000058(7/121402,ExAC)",
+                        "T=0.00032(10/31382,GnomAD)",
+                        "T=0.00017(3/17572,ALFAProject)",
+                        "T=0.00046(6/13006,GO-ESP)",
+                        "T=0.0003(1/3854,ALSPAC)",
+                        "T=0.0000(0/3708,TWINSUK)"
+                    ]
+                },
+                "rs727503277": {
+                    "freqs": [
+                        "A=0.000016(4/251490,GnomAD_exome)",
+                        "A=0.000008(1/125568,TOPMED)",
+                        "A=0.000025(3/121406,ExAC)",
+                        "A=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYL2": {
+            "pathways": [
+                " regulation of the force of heart contraction",
+                " heart morphogenesis",
+                " regulation of striated muscle contraction",
+                " heart development",
+                " post-embryonic development"
+            ],
+            "summary": "Thus gene encodes the regulatory light chain associated with cardiac myosin beta (or slow) heavy chain. Ca+ triggers the phosphorylation of regulatory light chain that in turn triggers contraction. Mutations in this gene are associated with mid-left ventricular chamber type hypertrophic cardiomyopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs199474808": {
+                    "freqs": [
+                        "T=0.000287(36/125568,TOPMED)",
+                        "T=0.00035(33/94958,ALFAProject)",
+                        "T=0.00004(3/78694,PAGE_STUDY)",
+                        "T=0.00038(12/31392,GnomAD)",
+                        "T=0.00038(5/13006,GO-ESP)",
+                        "T=0.0008(3/3854,ALSPAC)",
+                        "T=0.0000(0/3708,TWINSUK)"
+                    ]
+                }
+            }
+        },
+        "MYL3": {
+            "pathways": [
+                " regulation of the force of heart contraction",
+                " regulation of striated muscle contraction",
+                " skeletal muscle tissue development",
+                " muscle filament sliding",
+                " positive regulation of ATPase activity"
+            ],
+            "summary": "MYL3 encodes myosin light chain 3, an alkali light chain also referred to in the literature as both the ventricular isoform and the slow skeletal muscle isoform. Mutations in MYL3 have been identified as a cause of mid-left ventricular chamber type hypertrophic cardiomyopathy. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs199474707": {
+                    "freqs": [
+                        "T=0.000072(9/125568,TOPMED)",
+                        "T=0.000016(2/121398,ExAC)",
+                        "T=0.00006(2/31388,GnomAD)",
+                        "T=0.00008(1/13006,GO-ESP)",
+                        "T=0.0001(1/8580,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYLK": {
+            "pathways": [
+                " protein phosphorylation",
+                " muscle contraction",
+                " smooth muscle contraction",
+                " tonic smooth muscle contraction",
+                " phosphorylation"
+            ],
+            "summary": "This gene, a muscle member of the immunoglobulin gene superfamily, encodes myosin light chain kinase which is a calcium/calmodulin dependent enzyme. This kinase phosphorylates myosin regulatory light chains to facilitate myosin interaction with actin filaments to produce contractile activity. This gene encodes both smooth muscle and nonmuscle isoforms. In addition, using a separate promoter in an intron in the 3' region, it encodes telokin, a small protein identical in sequence to the C-terminus of myosin light chain kinase, that is independently expressed in smooth muscle and functions to stabilize unphosphorylated myosin filaments. A pseudogene is located on the p arm of chromosome 3. Four transcript variants that produce four isoforms of the calcium/calmodulin dependent enzyme have been identified as well as two transcripts that produce two isoforms of telokin. Additional variants have been identified but lack full length transcripts. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs368390254": {
+                    "freqs": [
+                        "T=0.000096(12/125568,TOPMED)",
+                        "T=0.00008(1/13006,GO-ESP)",
+                        "T=0.00018(2/11172,ALFAProject)",
+                        "T=0.0002(1/4480,Estonian)",
+                        "T=0.0005(2/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)",
+                        "G=0.002(2/998,GoNL)"
+                    ]
+                }
+            }
+        },
+        "MYLK2": {
+            "pathways": [
+                " protein phosphorylation",
+                " striated muscle contraction",
+                " neuromuscular synaptic transmission",
+                " positive regulation of gene expression",
+                " skeletal muscle satellite cell differentiation"
+            ],
+            "summary": "This gene encodes a myosin light chain kinase, a calcium/calmodulin dependent enzyme, that is exclusively expressed in adult skeletal muscle. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs141105787": {
+                    "freqs": [
+                        "C=0.000044(11/250472,GnomAD_exome)",
+                        "C=0.000159(20/125568,TOPMED)",
+                        "C=0.000067(8/120072,ExAC)",
+                        "C=0.00019(6/31382,GnomAD)",
+                        "C=0.00023(3/12998,GO-ESP)",
+                        "C=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "MYPN": {
+            "pathways": [
+                " homophilic cell adhesion via plasma membrane adhesion molecules",
+                " axon guidance",
+                " sarcomere organization",
+                " dendrite self-avoidance"
+            ],
+            "summary": "Striated muscle in vertebrates comprises large proteins which must be organized properly to contract efficiently. Z-lines in striated muscle are a sign of this organization, representing the ends of actin thin filaments, titin, nebulin or nebulette and accessory proteins required for structure and function. This gene encodes a protein which interacts with nebulin in skeletal muscle or nebulette in cardiac muscle and alpha-actinin. In addition, this gene product can interact with a protein with the I-band indicating it has a regulatory as well as structural function. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2011]",
+            "variants_inf": {
+                "rs71534280": {
+                    "freqs": [
+                        "A=0.000255(64/251060,GnomAD_exome)",
+                        "A=0.000717(90/125568,TOPMED)",
+                        "A=0.000256(31/120970,ExAC)",
+                        "A=0.00002(2/85994,ALFAProject)",
+                        "A=0.00111(87/78698,PAGE_STUDY)",
+                        "A=0.00070(22/31356,GnomAD)",
+                        "A=0.00031(4/13006,GO-ESP)",
+                        "A=0.0006(3/5008,1000G)",
+                        "A=0.0007(2/2922,KOREAN)",
+                        "A=0.0005(1/1832,Korea1K)"
+                    ]
+                }
+            }
+        },
+        "NEXN": {
+            "pathways": [
+                " homophilic cell adhesion via plasma membrane adhesion molecules",
+                " axon guidance",
+                " response to bacterium",
+                " regulation of cell migration",
+                " regulation of cytoskeleton organization"
+            ],
+            "summary": "This gene encodes a filamentous actin-binding protein that may function in cell adhesion and migration. Mutations in this gene have been associated with dilated cardiomyopathy, also known as CMD1CC. Alternatively spliced transcript variants have been described.[provided by RefSeq, Feb 2010]",
+            "variants_inf": {
+                "rs199738750": {
+                    "freqs": [
+                        "G=0.000245(61/249124,GnomAD_exome)",
+                        "G=0.000239(30/125568,TOPMED)",
+                        "G=0.000258(31/120384,ExAC)",
+                        "G=0.00056(48/85960,ALFAProject)",
+                        "G=0.00030(24/78702,PAGE_STUDY)",
+                        "G=0.00026(8/31362,GnomAD)",
+                        "G=0.00017(2/11964,GO-ESP)",
+                        "G=0.0002(1/5008,1000G)",
+                        "G=0.0000(0/3854,ALSPAC)",
+                        "G=0.0008(3/3708,TWINSUK)",
+                        "G=0.001(1/998,GoNL)",
+                        "G=0.002(1/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "PKP2": {
+            "pathways": [
+                " desmosome assembly",
+                " desmosome organization",
+                " cell-cell junction assembly",
+                " cell adhesion",
+                " heart development"
+            ],
+            "summary": "This gene encodes a member of the arm-repeat (armadillo) and plakophilin gene families. Plakophilin proteins contain numerous armadillo repeats, localize to cell desmosomes and nuclei, and participate in linking cadherins to intermediate filaments in the cytoskeleton. This gene product may regulate the signaling activity of beta-catenin. Two alternately spliced transcripts encoding two protein isoforms have been identified. A processed pseudogene with high similarity to this locus has been mapped to chromosome 12p13. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs199601548": {
+                    "freqs": [
+                        "T=0.000141(30/212730,GnomAD_exome)",
+                        "T=0.000701(88/125568,TOPMED)",
+                        "T=0.00017(16/95280,ExAC)",
+                        "T=0.00035(11/31364,GnomAD)",
+                        "T=0.00034(6/17556,ALFAProject)",
+                        "T=0.00024(3/12602,GO-ESP)",
+                        "T=0.0009(4/4480,Estonian)"
+                    ]
+                },
+                "rs564987195": {
+                    "freqs": [
+                        "A=0.000064(8/125568,TOPMED)",
+                        "A=0.000074(9/121110,ExAC)",
+                        "A=0.00003(1/31402,GnomAD)",
+                        "A=0.0000(0/2188,ALFAProject)",
+                        "A=0.0005(1/1832,Korea1K)",
+                        "A=0.001(1/998,GoNL)"
+                    ]
+                }
+            }
+        },
+        "RBM20": {
+            "pathways": [
+                " mRNA processing",
+                " regulation of translation",
+                " heart development",
+                " RNA splicing",
+                " positive regulation of RNA splicing"
+            ],
+            "summary": "This gene encodes a protein that binds RNA and regulates splicing. Mutations in this gene have been associated with familial dilated cardiomyopathy. [provided by RefSeq, Apr 2014]",
+            "variants_inf": {
+                "rs201148126": {
+                    "freqs": [
+                        "A=0.000510(64/125568,TOPMED)",
+                        "A=0.00096(91/94956,ALFAProject)",
+                        "A=0.00011(9/78696,PAGE_STUDY)",
+                        "A=0.00025(8/31396,GnomAD)",
+                        "A=0.00046(9/19570,ExAC)",
+                        "A=0.0007(3/4566,GO-ESP)",
+                        "A=0.0021(8/3854,ALSPAC)",
+                        "A=0.0022(8/3708,TWINSUK)"
+                    ]
+                }
+            }
+        },
+        "RYR2": {
+            "pathways": [
+                " response to hypoxia",
+                " regulation of heart rate",
+                " embryonic heart tube morphogenesis",
+                " left ventricular cardiac muscle tissue morphogenesis",
+                " cardiac muscle hypertrophy"
+            ],
+            "summary": "This gene encodes a ryanodine receptor found in cardiac muscle sarcoplasmic reticulum. The encoded protein is one of the components of a calcium channel, composed of a tetramer of the ryanodine receptor proteins and a tetramer of FK506 binding protein 1B proteins, that supplies calcium to cardiac muscle. Mutations in this gene are associated with stress-induced polymorphic ventricular tachycardia and arrhythmogenic right ventricular dysplasia. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs200450676": {
+                    "freqs": [
+                        "C=0.000157(39/247670,GnomAD_exome)",
+                        "C=0.000167(21/125568,TOPMED)",
+                        "C=0.000166(20/120500,ExAC)",
+                        "C=0.00037(29/78700,PAGE_STUDY)",
+                        "C=0.00003(1/31404,GnomAD)",
+                        "C=0.00023(4/17742,ALFAProject)",
+                        "C=0.00008(1/12490,GO-ESP)",
+                        "C=0.0008(3/3854,ALSPAC)",
+                        "C=0.0000(0/3708,TWINSUK)"
+                    ]
+                }
+            }
+        },
+        "SCN3B": {
+            "pathways": [
+                " ion transport",
+                " sodium ion transport",
+                " nervous system development",
+                " positive regulation of heart rate",
+                " positive regulation of sodium ion transport"
+            ],
+            "summary": "Voltage-gated sodium channels are transmembrane glycoprotein complexes composed of a large alpha subunit and one or more regulatory beta subunits. They are responsible for the generation and propagation of action potentials in neurons and muscle. This gene encodes one member of the sodium channel beta subunit gene family, and influences the inactivation kinetics of the sodium channel. Two alternatively spliced variants, encoding the same protein, have been identified. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs121918282": {
+                    "freqs": [
+                        "G=0.000203(51/251474,GnomAD_exome)",
+                        "G=0.000271(34/125568,TOPMED)",
+                        "G=0.000173(21/121380,ExAC)",
+                        "G=0.00032(10/31386,GnomAD)",
+                        "G=0.00027(3/11176,ALFAProject)",
+                        "G=0.0007(3/4480,Estonian)",
+                        "G=0.0005(2/3854,ALSPAC)",
+                        "G=0.0000(0/3708,TWINSUK)",
+                        "G=0.001(1/998,GoNL)",
+                        "G=0.004(2/534,MGP)"
+                    ]
+                }
+            }
+        },
+        "SCN5A": {
+            "pathways": [
+                " regulation of heart rate",
+                " cardiac ventricle development",
+                " brainstem development",
+                " ion transport",
+                " sodium ion transport"
+            ],
+            "summary": "The protein encoded by this gene is an integral membrane protein and tetrodotoxin-resistant voltage-gated sodium channel subunit. This protein is found primarily in cardiac muscle and is responsible for the initial upstroke of the action potential in an electrocardiogram. Defects in this gene are a cause of long QT syndrome type 3 (LQT3), an autosomal dominant cardiac disease. Alternative splicing results in several transcript variants encoding different isoforms. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs137854617": {
+                    "freqs": [
+                        "T=0.000109(27/248810,GnomAD_exome)",
+                        "T=0.000104(13/125568,TOPMED)",
+                        "T=0.000100(12/120162,ExAC)",
+                        "T=0.00003(1/31400,GnomAD)",
+                        "T=0.0000(0/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)",
+                        "T=0.0000(0/2188,ALFAProject)",
+                        "T=0.002(1/534,MGP)"
+                    ]
+                },
+                "rs3918389": {
+                    "freqs": [
+                        "A=0.000072(9/125568,TOPMED)",
+                        "A=0.00003(1/31388,GnomAD)",
+                        "A=0.00008(1/12616,GO-ESP)",
+                        "A=0.0000(0/2188,ALFAProject)",
+                        "G=0.000(0/328,HapMap)"
+                    ]
+                }
+            }
+        },
+        "SCO2": {
+            "pathways": [
+                " eye development",
+                " in utero embryonic development",
+                " muscle system process",
+                " pyrimidine nucleobase metabolic process",
+                " pyrimidine nucleoside metabolic process"
+            ],
+            "summary": "Cytochrome c oxidase (COX) catalyzes the transfer of electrons from cytochrome c to molecular oxygen, which helps to maintain the proton gradient across the inner mitochondrial membrane that is necessary for aerobic ATP production. Human COX is a multimeric protein complex that requires several assembly factors; this gene encodes one of the COX assembly factors. The encoded protein is a metallochaperone that is involved in the biogenesis of cytochrome c oxidase subunit II. Mutations in this gene are associated with fatal infantile encephalocardiomyopathy and myopia 6. [provided by RefSeq, Oct 2014]",
+            "variants_inf": {
+                "rs74315511": {
+                    "freqs": [
+                        "T=0.000080(20/251178,GnomAD_exome)",
+                        "T=0.000080(10/125568,TOPMED)",
+                        "T=0.000099(12/120758,ExAC)",
+                        "T=0.00026(21/79302,ALFAProject)",
+                        "T=0.00016(5/31384,GnomAD)",
+                        "T=0.0011(5/4480,Estonian)"
+                    ]
+                }
+            }
+        },
+        "SLC25A4": {
+            "pathways": [
+                " mitochondrial genome maintenance",
+                " generation of precursor metabolites and energy",
+                " apoptotic mitochondrial changes",
+                " adenine transport",
+                " ADP transport"
+            ],
+            "summary": "This gene is a member of the mitochondrial carrier subfamily of solute carrier protein genes. The product of this gene functions as a gated pore that translocates ADP from the cytoplasm into the mitochondrial matrix and ATP from the mitochondrial matrix into the cytoplasm. The protein forms a homodimer embedded in the inner mitochondria membrane. Mutations in this gene have been shown to result in autosomal dominant progressive external opthalmoplegia and familial hypertrophic cardiomyopathy. [provided by RefSeq, Jun 2013]",
+            "variants_inf": {
+                "rs863224209": {
+                    "freqs": [
+                        "delC=0.000004(1/251128,GnomAD_exome)",
+                        "delC=0.000024(3/125568,TOPMED)",
+                        "delC=0.00003(1/31378,GnomAD)",
+                        "delC=0.0000(0/2188,ALFAProject)"
+                    ]
+                }
+            }
+        },
+        "TGFBR2": {
+            "pathways": [
+                " blood vessel development",
+                " branching involved in blood vessel morphogenesis",
+                " vasculogenesis",
+                " response to hypoxia",
+                " in utero embryonic development"
+            ],
+            "summary": "The protein encoded by this gene is a transmembrane protein that has a protein kinase domain, forms a heterodimeric complex with TGF-beta receptor type-1, and binds TGF-beta. This receptor/ligand complex phosphorylates proteins, which then enter the nucleus and regulate the transcription of genes related to cell proliferation, cell cycle arrest, wound healing, immunosuppression, and tumorigenesis. Mutations in this gene have been associated with Marfan Syndrome, Loeys-Deitz Aortic Aneurysm Syndrome, and the development of various types of tumors. Alternatively spliced transcript variants encoding different isoforms have been characterized. [provided by RefSeq, Aug 2017]",
+            "variants_inf": {
+                "rs200361387": {
+                    "freqs": [
+                        "A=0.000016(2/125568,TOPMED)",
+                        "A=0.00003(1/31398,GnomAD)",
+                        "A=0.00008(1/13006,GO-ESP)",
+                        "A=0.0002(1/5008,1000G)",
+                        "A=0.0000(0/2188,ALFAProject)",
+                        "T=0.0000(0/2188,dbGaPPopulationFrequencyProject)"
+                    ]
+                },
+                "rs35766612": {
+                    "freqs": [
+                        "A=0.001059(133/125568,TOPMED)",
+                        "A=0.00227(216/94988,ALFAProject)",
+                        "A=0.00079(62/78702,PAGE_STUDY)",
+                        "A=0.00231(30/13006,GO-ESP)",
+                        "A=0.0002(1/5008,1000G)",
+                        "A=0.0000(0/1136,Daghestan)",
+                        "A=0.002(2/998,GoNL)",
+                        "A=0.004(2/534,MGP)",
+                        "A=0.003(1/304,FINRISK)",
+                        "G=0.5(1/2,SGDP_PRJ)",
+                        "A=0.5(1/2,SGDP_PRJ)"
+                    ]
+                }
+            }
+        },
+        "TNNT2": {
+            "pathways": [
+                " skeletal muscle contraction",
+                " muscle contraction",
+                " regulation of muscle contraction",
+                " regulation of heart contraction",
+                " muscle filament sliding"
+            ],
+            "summary": "The protein encoded by this gene is the tropomyosin-binding subunit of the troponin complex, which is located on the thin filament of striated muscles and regulates muscle contraction in response to alterations in intracellular calcium ion concentration. Mutations in this gene have been associated with familial hypertrophic cardiomyopathy as well as with dilated cardiomyopathy. Transcripts for this gene undergo alternative splicing that results in many tissue-specific isoforms, however, the full-length nature of some of these variants has not yet been determined. [provided by RefSeq, Jul 2008]",
+            "variants_inf": {
+                "rs121964857": {
+                    "freqs": [
+                        "A=0.000360(88/244204,GnomAD_exome)",
+                        "A=0.000366(46/125568,TOPMED)",
+                        "A=0.00062(59/94806,ALFAProject)",
+                        "A=0.00043(40/93228,ExAC)",
+                        "A=0.00041(32/78690,PAGE_STUDY)",
+                        "A=0.00032(10/31366,GnomAD)",
+                        "A=0.0004(2/4480,Estonian)",
+                        "A=0.0008(3/3854,ALSPAC)",
+                        "A=0.0005(2/3708,TWINSUK)"
+                    ]
+                },
+                "rs730881115": {
+                    "freqs": [
+                        "delG=0.000044(11/250100,GnomAD_exome)",
+                        "delG=0.000072(9/125568,TOPMED)",
+                        "delG=0.000035(4/115786,ExAC)",
+                        "delG=0.00010(3/31372,GnomAD)",
+                        "delG=0.00016(2/12520,GO-ESP)",
+                        "delG=0.0005(1/2188,ALFAProject)"
+                    ]
+                },
+                "rs730881125": {
+                    "freqs": [
+                        "T=0.000005(1/220974,GnomAD_exome)",
+                        "T=0.00002(1/55152,ExAC)"
+                    ]
+                }
+            }
+        },
+        "TRPM4": {
+            "pathways": [
+                " adaptive immune response",
+                " immune system process",
+                " dendritic cell chemotaxis",
+                " regulation of T cell cytokine production",
+                " ion transport"
+            ],
+            "summary": "The protein encoded by this gene is a calcium-activated nonselective ion channel that mediates transport of monovalent cations across membranes, thereby depolarizing the membrane. The activity of the encoded protein increases with increasing intracellular calcium concentration, but this channel does not transport calcium. [provided by RefSeq, Mar 2016]",
+            "variants_inf": {
+                "rs140799936": {
+                    "freqs": [
+                        "T=0.000940(118/125568,TOPMED)",
+                        "T=0.00039(31/78702,PAGE_STUDY)",
+                        "T=0.00115(36/31348,GnomAD)",
+                        "T=0.00146(19/13006,GO-ESP)",
+                        "T=0.00116(13/11176,ALFAProject)",
+                        "T=0.0004(2/5008,1000G)",
+                        "T=0.0011(5/4480,Estonian)",
+                        "T=0.0005(2/3854,ALSPAC)",
+                        "T=0.0003(1/3708,TWINSUK)",
+                        "T=0.002(2/998,GoNL)",
+                        "T=0.002(1/534,MGP)",
+                        "T=0.010(3/304,FINRISK)"
+                    ]
+                }
+            }
+        },
+        "TTN": {
+            "pathways": [
+                " platelet degranulation",
+                " cardiac muscle hypertrophy",
+                " protein phosphorylation",
+                " muscle contraction",
+                " striated muscle contraction"
+            ],
+            "summary": "This gene encodes a large abundant protein of striated muscle. The product of this gene is divided into two regions, a N-terminal I-band and a C-terminal A-band. The I-band, which is the elastic part of the molecule, contains two regions of tandem immunoglobulin domains on either side of a PEVK region that is rich in proline, glutamate, valine and lysine. The A-band, which is thought to act as a protein-ruler, contains a mixture of immunoglobulin and fibronectin repeats, and possesses kinase activity. An N-terminal Z-disc region and a C-terminal M-line region bind to the Z-line and M-line of the sarcomere, respectively, so that a single titin molecule spans half the length of a sarcomere. Titin also contains binding sites for muscle associated proteins so it serves as an adhesion template for the assembly of contractile machinery in muscle cells. It has also been identified as a structural protein for chromosomes. Alternative splicing of this gene results in multiple transcript variants. Considerable variability exists in the I-band, the M-line and the Z-disc regions of titin. Variability in the I-band region contributes to the differences in elasticity of different titin isoforms and, therefore, to the differences in elasticity of different muscle types. Mutations in this gene are associated with familial hypertrophic cardiomyopathy 9, and autoantibodies to titin are produced in patients with the autoimmune disease scleroderma. [provided by RefSeq, Feb 2012]",
+            "variants_inf": {
+                "rs150954246": {
+                    "freqs": [
+                        "A=0.000004(1/247160,GnomAD_exome)",
+                        "A=0.000008(1/118000,ExAC)",
+                        "A=0.00000(0/78702,PAGE_STUDY)",
+                        "A=0.00001(1/77422,ALFAProject)",
+                        "A=0.00008(1/13006,GO-ESP)"
+                    ]
+                },
+                "rs200355367": {
+                    "freqs": [
+                        "C=0.000129(32/248426,GnomAD_exome)",
+                        "C=0.000175(22/125568,TOPMED)",
+                        "C=0.000083(10/120448,ExAC)",
+                        "C=0.00023(22/94994,ALFAProject)",
+                        "C=0.00004(3/78700,PAGE_STUDY)",
+                        "C=0.00006(2/31402,GnomAD)",
+                        "C=0.00055(7/12648,GO-ESP)"
+                    ]
+                },
+                "rs368219776": {
+                    "freqs": [
+                        "T=0.000044(9/203664,GnomAD_exome)",
+                        "T=0.000056(7/125568,TOPMED)",
+                        "T=0.00003(2/78696,PAGE_STUDY)",
+                        "T=0.00012(4/33462,ExAC)",
+                        "T=0.00013(4/31332,GnomAD)",
+                        "T=0.00007(2/28854,ALFAProject)",
+                        "T=0.00017(2/11740,GO-ESP)"
+                    ]
+                },
+                "rs374449452": {
+                    "freqs": [
+                        "A=0.000221(46/208082,GnomAD_exome)",
+                        "A=0.000199(25/125568,TOPMED)",
+                        "A=0.00037(29/78656,PAGE_STUDY)",
+                        "A=0.00017(9/53964,ExAC)",
+                        "A=0.00010(3/31370,GnomAD)",
+                        "A=0.00017(2/11884,GO-ESP)",
+                        "A=0.00018(2/11356,ALFAProject)",
+                        "A=0.0002(1/5008,1000G)",
+                        "A=0.0003(1/3854,ALSPAC)",
+                        "A=0.0000(0/3708,TWINSUK)",
+                        "A=0.004(2/534,MGP)",
+                        "G=0.5(1/2,SGDP_PRJ)",
+                        "A=0.5(1/2,SGDP_PRJ)"
+                    ]
+                },
+                "rs587780488": {
+                    "freqs": [
+                        "T=0.000015(3/204370,GnomAD_exome)",
+                        "G=0.000016(2/125568,TOPMED)",
+                        "T=0.000016(2/125568,TOPMED)",
+                        "T=0.00003(1/31310,GnomAD)",
+                        "G=0.0000(0/2188,ALFAProject)",
+                        "T=0.0000(0/2188,dbGaPPopulationFrequencyProject)"
+                    ]
+                },
+                "rs759208053": {
+                    "freqs": [
+                        "C=0.000012(3/248072,GnomAD_exome)",
+                        "C=0.000072(9/125568,TOPMED)",
+                        "C=0.000017(2/120292,ExAC)",
+                        "C=0.00003(1/31342,GnomAD)",
+                        "C=0.0000(0/2188,ALFAProject)"
+                    ]
+                },
+                "rs886055239": {
+                    "freqs": [
+                        "T=0.000008(2/248726,GnomAD_exome)"
+                    ]
+                },
+                "rs886055240": {
+                    "freqs": [
+                        "G=0.000008(2/248422,GnomAD_exome)"
+                    ]
+                }
+            }
+        },
+        "TXNRD2": {
+            "pathways": [
+                " response to oxygen radical",
+                " electron transport chain",
+                " cellular response to oxidative stress",
+                " cell redox homeostasis",
+                " oxidation-reduction process"
+            ],
+            "summary": "The protein encoded by this gene belongs to the pyridine nucleotide-disulfide oxidoreductase family, and is a member of the thioredoxin (Trx) system. Three thioredoxin reductase (TrxR) isozymes are found in mammals. TrxRs are selenocysteine-containing flavoenzymes, which reduce thioredoxins, as well as other substrates, and play a key role in redox homoeostasis. This gene encodes a mitochondrial form important for scavenging reactive oxygen species in mitochondria. It functions as a homodimer containing FAD, and selenocysteine (Sec) at the active site. Sec is encoded by UGA codon that normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, the Sec insertion sequence (SECIS) element, which is necessary for the recognition of UGA as a Sec codon rather than as a stop signal. Alternatively spliced transcript variants encoding different isoforms, including a few localized in the cytosol and some lacking the C-terminal Sec residue, have been found for this gene. [provided by RefSeq, Jun 2017]",
+            "variants_inf": {
+                "rs199510610": {
+                    "freqs": [
+                        "G=0.000317(79/249562,GnomAD_exome)",
+                        "G=0.000430(54/125568,TOPMED)",
+                        "G=0.000215(26/120686,ExAC)",
+                        "G=0.00109(86/78696,PAGE_STUDY)",
+                        "G=0.00019(6/31386,GnomAD)",
+                        "G=0.00016(2/12276,GO-ESP)",
+                        "G=0.00045(5/11176,ALFAProject)",
+                        "G=0.0004(2/5008,1000G)"
+                    ]
+                },
+                "rs200610775": {
+                    "freqs": [
+                        "G=0.000175(22/125568,TOPMED)",
+                        "G=0.000109(12/110414,ExAC)",
+                        "G=0.00025(8/31402,GnomAD)",
+                        "G=0.00024(3/12498,GO-ESP)",
+                        "G=0.00036(4/11176,ALFAProject)",
+                        "G=0.0005(2/3854,ALSPAC)",
+                        "G=0.0000(0/3708,TWINSUK)"
+                    ]
+                },
+                "rs201971987": {
+                    "freqs": [
+                        "G=0.000467(116/248594,GnomAD_exome)",
+                        "G=0.000526(66/125568,TOPMED)",
+                        "G=0.000370(44/119064,ExAC)",
+                        "G=0.00096(91/94972,ALFAProject)",
+                        "G=0.00033(26/78692,PAGE_STUDY)",
+                        "G=0.00051(16/31382,GnomAD)",
+                        "G=0.00055(7/12828,GO-ESP)",
+                        "G=0.0013(5/3854,ALSPAC)",
+                        "G=0.0008(3/3708,TWINSUK)",
+                        "G=0.002(1/534,MGP)"
+                    ]
+                }
+            }
+        }
+    }
+}
