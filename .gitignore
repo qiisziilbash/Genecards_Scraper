@@ -1,4 +1,3 @@
 # Project exclude paths
 /venv/
-/data/genes_variants.xlsx
-/data/data.json
+
